@@ -1,44 +1,59 @@
-Helio Perroni Filho is a Software engineer and researcher, passionate about technology and its role enhancing human life. I’m always interested in turning new ideas into practical applications. 10+ years worth of experience, sound knowledge in software engineering, programming languages and applied AI techniques.
+I had an exchange about the future of work with an intelligent newly minted high school graduate that I would like to share. Our conversation went something like this:
 
-Fields of Expertise
-* Computer Vision: self-localization, object recognition, object tracking
-* Machine Learning: Bayesian inference, Convolutional Networks, Deep Learning, SVM's
-* Robotics: mobile platforms, autonomous driving, controllers, Kalman Filters, Particle filters, sensor fusion
+Where do you see yourself in, say, five years?
 
-Platforms
-* Hardware: PC’s, ARM-based mobile devices, Arduino microcontrollers
-* Operating Systems: Linux, Windows
-* Sensors: LiDAR (2D / 3D), Camera (Stereo / Monocular), Odometers (wheel encoders)
+Working for a fashion magazine.
 
-Programming Languages
-* Systems Programming: C / C++, Java
-* Scripting: Python, Shell Script
-* Other: PHP, SQL, Javascript, HTML, XML
+Do you think that tech will impact how work at a fashion magazine is done by then?
 
-Frameworks / IDE’s
-* C / C++: OpenCL, OpenCV, PCL, ROS, Intel Thread Building Blocks (TBB)
-* Python: matplotlib, numpy, scipy, TensorFlow
-* Java: Eclipse, NetBeans
-* Other: CMake, gitSoftware engineer and researcher, passionate about technology and its role enhancing human life. I’m always interested in turning new ideas into practical applications. 10+ years worth of experience, sound knowledge in software engineering, programming languages and applied AI techniques.
+Definitely! Because of AI, the work will be very different from the way it is done now.
 
-Lorne is an energetic leader who believes in a growth mindset. His values as a manager include
-maintaining absolute integrity and the importance of investing in the development of others.
-He spent over 15 years in the banking and tech space honing his skills as an impactful, strategic
-leader.
-He previously worked for TD where he managed in the areas of Customer Service, Credit and
-Retail Banking. As a Branch Manager, Lorne successfully led teams at the Fort Frances and
-Atikokan branches and improved results to achieve champion branch ranking.
-Most recently he worked in the tech space for two of Canada’s top unicorn start-ups. Lorne
-spent a number of years at Shopify building the operational arm of their financial services
-product line. This included building the sales, underwriting and collections functions. He also
-worked at Wealthsimple where he helped lead the growth of their customer support department.
-Lorne holds a B.A. in English and Political Science from Carleton University. When not working,
-Lorne enjoys supporting others in their tech startup journeys, traveling and reading.
+What are you doing to prepare yourself for that?
 
-Jean-Jacques Rousseau is a philosopher of science, with a practice in inclusive innovation at the intersection of tech, entrepreneurship and big ideas.
+Nothing really. I mean, I figure that I am pretty good with computers and so, when I get there, I'll be able to learn what I need to know.
 
-A member of the Task Force on the Future of Pedagogy at York University, he advises the Office of the Dean at the Schulich School of Business in Decolonization, Equity, Diversity and Inclusion (DEDI). As Managing Director at Rousseau Ventures, he helps clients Innovate for Impact ™. He spent 10 years in the Ontario Public Service, starting as an Economist in the Ontario Ministry of Finance, and ending as Investment Attraction Lead and Senior Manager of Life Sciences Programs at the Ontario Ministry of Research and Innovation. After four years of varied client work, he was recruited for the role of Inaugural Technical Advisor in Innovation, Science and Competitiveness to the President of the Republic of Haïti. Today, Rousseau Ventures has a client list that includes postsecondary institutions, a cultural centre, entrepreneur incubator spaces, and tech startups.
+After some probing, it was clear that she is typical of her cohort so very tech comfortable but just a little tech literate. On the spot, my only breakthrough was to notice the difference. Otherwise, I had difficulty overcoming her easy confidence that preparing for the future she was sure required new skills could wait for said future. Months later, I responded with the Foundations of Digital Literacy course.
 
-He holds a B.A. in Law and Philosophy from Carleton University, MBA from the Schulich School of Business, and PhD in Philosophy of Science from the Institute for the History and Philosophy of Science and Technology at the University of Toronto. He completed a postdoctoral fellowship in Explainability & Trust in AI Systems at the Lassonde School of Engineering, an intensive in Philosophy of Physics at the University of Geneva, and the EinsteinPlus workshop in modern physics at the Perimeter Institute for Theoretical Physics. He also completed a rigorous introduction to Machine Learning at the Vector Institute for Artificial Intelligence.
+This article is especially targeted at people who are very comfortable with tech tools like apps of all kinds, but not literate enough to understand how these apps work, where and how they break down, and how one might go about making new/better apps.
 
-Jean-Jacques regularly speaks and teaches on inclusive innovation, public policy and governance, digital and scientific literacy, and on Haiti as the light of the Enlightenment. He is an Instructor at the Schulich School of Business, Network Manager at the AI for Pandemic and Epidemic Preparedness (AI4PEP) project, Research Fellow at Dahdaleh Institute for Global Health Research, and Past Chair of CARE for Internationally Educated Nurses. He is a former Board Member at Groupe Média TFO and the World Summit AI Board of International Government and UN Advisors, Mentor at NextAI (Montréal) and former Chair of the Board of the Obsidian Theatre Company.
+To understand digital literacy, let us start with 'literacy': the ability to read and write. That is the narrow view. A wider view is literacy as the demonstration of understanding written or oral language and also to be understood in writing and verbally. Of course, the conduits don't matter much. For example, my vocal box could be damaged or in need of rest but I could still express myself orally using text-to-speech.
+
+Defined narrowly or wider, we can more deeply understand literacy in contrast to what it is not - it is not the brute force memorization used by children who recognize their own names but cannot rearrange the same letters to read other words. Literacy involves understanding the parts (even that they are parts) and how they can be arranged and rearranged to produce new expressions that are original and readily understood by others. It is the mastery of language that resides in the mind-brain to allow its owner to make judgements about what is possible and not possible given the parts and combination rules.
+
+Numeracy is similar. Most of us can remember memorizing equations like y = mx + b and feeling good about answering softball questions that asked to solve for y given m, x and b. This is not numeracy. Numeracy is recognizing a linear relationship across divers contexts. And if you don't get the joke in the movie Anchorman : "60% of the time, it works every time" then you are not (yet) numerate.
+
+Digital literacy is also about parts and combination rules. Understanding first principle concepts like logic and counting and how they can be combined, extended and iterated to model decision-making. This fundamental understanding combined with an understanding of the broad business models employed by Big Tech helps one make judgements about what is technically feasible and not, and commercially sustainable or not. Finally, one can make informed judgements about the business, social and life implications of this space.
+
+Concretely, consider the Cambridge Analytica scandal. There are technical facts of the matter about what data is, how it is collected and how it can be transformed into the actionable intelligence marketers can use. Then, there are the business models favoured by Big Tech that only work when personal data is available to them at no charge above the means of collection, and unrestricted in the use that can be made of the data. Finally, there are the personal and public policy choices possible and not in light of the first two considerations and human psychology.
+
+Being digitally literate is being equipped to follow these three tracks. It is given the intersections of tech considerations, business models and personal and policy apathy that leads me to believe that, in the mid-term, personal privacy will continue to be abused. We may even agree to give in and redefine privacy altogether. Collecting and analyzing data is too (relatively) cheap and easy, the business models currently in use are premised on monetizing private information (like reading private emails and messages) and the tech goodies we get as end users are just too addictive ... all three combine to no meaningful change on the close horizon.
+
+Now you might disagree. The point is to have the mastery of parts and combination rules to be able to make an argument. This is what it means to be digitally literate. And like with other forms of literacy, it requires effort. Just as it is more natural to start with learning to listen and speak and then learn to read and write, being comfortable using technology is a precursor but not yet full-blown digital literacy.
+
+Jean-Jacques regularly applies genius thinking to issues of public policy, product management and innovation ecosystem building. He is a philosopher of science with a practice at the intersection of tech, entrepreneurship and ideas. Dr. Rousseau is also the acting CTO at CloudConstable, a Toronto-based AI startup developing virtual assistants. He is the founder to GeniusLab AI, a learner-centric platform with a mission to incubate talent and spread knowledge™. Its unique "Foundations of Genius" series is designed to unleash your inner genius. 
+
+The German philosopher Arthur Schopenhauer held a view of genius that is still common:
+
+“ Talent hits a target no one else can hit; Genius hits a target no one else can see”.
+
+This is a way to say that, while one is made better by hard work and practice, geniuses are born ... they are not made. This is very romantic, of course, but not everyone agrees.
+
+A prominent dissenter is Albert Einstein, himself considered the quintessential modern genius. Reflecting on the reasons for his achievement he said:
+
+“I have no special talent. I am only passionately curious”.
+For those who hope that they could be made into geniuses, here are two other encouraging quotes from Einstein:
+
+“It's not that I'm so smart, it's just that I stay with problems longer” ... and ... “Once we accept our limits, we go beyond them”.
+
+While no one becomes a genius overnight, it will never happen at all if one doesn't start. But where should we begin?
+
+Another infamous physicist, Richard Feynman, wrote this on his blackboard before he died: "What I cannot create, I do not understand; Know how to solve every problem that has been solved".
+
+Words found on Richard Feynman's office blackboard after this death.
+The advice is clear: the way to start is to hunt for examples of genius thinking. Once one has mastered another's genius thinking, it is time to make it your own by solving your own problems. This is the advice from another genius, the eccentric philosopher Ludwig Wittgenstein. Commenting about what can be learned from his own philosophy he wrote:
+
+My propositions serve as elucidations in the following way: anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed up it.)
+   He must transcend these propositions, and then he will see the world aright.
+Happy genius hunting!
+
+Jean-Jacques Rousseau is a philosopher of science and innovation catalyst with a practice at the intersection of tech, entrepreneurship and ideas. He is the acting CTO of Cloud Constable, a Toronto-based startup developing AI-powered virtual assistants. He is a regular public speaker and available to lead workshops and for keynote speaking engagements.
