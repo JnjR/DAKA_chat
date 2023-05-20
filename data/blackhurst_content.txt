@@ -1,1115 +1,252 @@
-Lorne is an energetic leader who believes in a growth mindset. His values as a manager include
-maintaining absolute integrity and the importance of investing in the development of others.
-He spent over 15 years in the banking and tech space honing his skills as an impactful, strategic
-leader.
-He previously worked for TD where he managed in the areas of Customer Service, Credit and
-Retail Banking. As a Branch Manager, Lorne successfully led teams at the Fort Frances and
-Atikokan branches and improved results to achieve champion branch ranking.
-Most recently he worked in the tech space for two of Canada’s top unicorn start-ups. Lorne
-spent a number of years at Shopify building the operational arm of their financial services
-product line. This included building the sales, underwriting and collections functions. He also
-worked at Wealthsimple where he helped lead the growth of their customer support department.
-Lorne holds a B.A. in English and Political Science from Carleton University. When not working,
-Lorne enjoys supporting others in their tech startup journeys, traveling and reading.
+Skip to content
 
-       YORK UNIVERSITY
-Decolonizing, Equity,
-Diversity and Inclusion
-Strategy
-2023-2028
-PREPARED BY:
-THE PRESIDENT’S ADVISORY COUNCIL ON EQUITY, DIVERSITY AND INCLUSION DIVISION OF EQUITY, PEOPLE AND CULTURE
- 
- LAND ACKNOWLEDGEMENT
-We recognize that many Indigenous Nations have longstanding relationships with the territories upon which York University campuses are located that precede the establishment of York University. York University acknowledges its presence on the traditional territory of many Indigenous Nations. The area known as Tkaronto has been care taken by the Anishinabek Nation, the Haudenosaunee Confederacy, and the Huron-Wendat. It is now home to many First Nation, Inuit and Métis communities. We acknowledge the current treaty holders, the Mississaugas of the Credit First Nation. This territory is subject of the Dish with One Spoon Wampum Belt Covenant, an agreement to peaceably share and care for the Great Lakes region.1
- 1 Refer to Appendix A for discussion on land acknowledgements.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 2
+About
+Programming
+Support Us
+Contact Us
+News
+SearchSearch
+Search...
+From Bookstore to Cultural Centre
+This is Blackhurst Cultural Centre — The People's Residence
+Volunteers moving books from 746 to 777 Bathurst Street. Photo credit, Toronto Star. Check out the article about our move here!
 
- NOTE OF THANKS
-Initiatives to address disparities and increase inclusiveness at York University have been undertaken over many years by faculty, instructors, staff and students. As well, this vital work continues to be advanced across the university by various unions, caucuses, committees and departments. These groups have facilitated progress in decolonization, equity, diversity and inclusion and York acknowledges their contributions.
-York also acknowledges the many significant contributions made by others who have stepped forward, engaged in dialogue, provided feedback and assisted with drafting this strategy.
-York recognizes that it needs to do much more to foster an environment that is equitable and inclusive as well as responsive to all community members. York hopes this strategy builds on the work already undertaken and that it demonstrates the University’s ongoing commitment to decolonization, equity, diversity and inclusion.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 3
+Our Story
+You know that you have a special place in a community’s heart when people show up in large numbers early in the day, to move you from one location to another. This not only captured our imagination, but the imagination of the city. This is the gift Torontonians gave to Blackhurst Cultural Centre (BCC) on February 4th, 2017, as they moved us from the former Mirvish Village to our temporary location across the street at 777 Bathurst Street.
 
- TABLE OF CONTENTS
-LAND ACKNOWLEDGEMENT. . . . . . . . . . . . ...................... 2 NOTE OF THANKS . . . . . . . . . . . . . . . . . . . . . . . ...................... 3 EXECUTIVE SUMMARY. . . . . . . . . . . . . . . . . . ...................... 5 INTRODUCTION............................................... 6
-A VISION FOR THE FUTURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 A NOTE ON TERMINOLOGY .................................. 7 OVERVIEW OF PROCESS. . . . .................................. 8
-COMMUNITY FEEDBACK . . .................................. 8 PRINCIPLES .................................................. 9 DECOLONIZATION.......................................... 9 EQUITY...................................................... 9
-STRATEGIC DIRECTION: REPRESENTATION
-AND SUCCESS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Recommendations for new campus-wide initiatives . Recommendations for continuing initiatives. . . . . . . . . . Taking action, making impact:. . . . . . . . . . . . . . . . . . . . . . . . Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-STRATEGIC DIRECTION: LEADERSHIP
-AND CAPACITY BUILDING . . . . . . . . . . . . . ..............
-Recommendations for new Campus-Wide Initiatives.
-. . . . . . . . . .
-. . . . . . . . . .
-. . . . . . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . .
-. . . . . . . . . .
-. . . . . . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-. . 22 . . 22 . . 23 . . 23 . . 23
-. . 24 . . 24 . . 24 . . 24 . . 25
-. . 25 . . 25 . . 25 . . 26 . . 26
-. . 27 . . 27 . . 27
-. . 28 . . 29
-. . 37 . . 37 . . 37
-. . 38 . . 38 . . 38 . . 38 . . 38 . . 38 . . 39 . . 39 . . 39 . . 39 . . 39 . . 39 . . 39
-DIVERSITY . . . . . . . . . . . . . . . . INCLUSION. . . . . . . . . . . . . . . . ACCESSIBILITY. . . . . . . . . . . . ANTI-RACISM............ . HUMAN RIGHTS . . . . . . . . . . . INDIGENOUS RIGHTS. . . . . INTERSECTIONALITY . . . . . RECONCILIATION . . . . . . . . . RIGHTS OF THE PLANET . . SOCIAL JUSTICE . . . . . . . . . .
-EXTERNAL ENVIRONMENT
-INTERNAL ENVIRONMENT .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................ . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................ ............................
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-. .
-. .
-. .
-. . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-. .
-. .
-. .
-. . . . . . . . . .
-. 10 . 10 . 10 . 10 . 11 . 11 . 11 . 11 . 12 . 12 . 13 . 14 . 15
-. 18 . 18 . 18
-. 19 . 19 . 19 . 20 . 20
-. 20 . 21 . 21 . 21 . 22
-Recommendations for continuing initiatives. Taking action, making impact:. . . . . . . . . . . . . . . Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-ENABLING THE PLAN . . . . . . . . . . . . . . . . . . . . . . . . . Key initiatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Taking action, making impact:. . . . . . . . . . . . . . .
-CONCLUSION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . GLOSSARY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-APPENDIX A: DISCUSSION ON
-LAND ACKNOWLEDGEMENTS . . . . . . . . . . . . . . . .
-. . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . .
-. . . . . .
-. . . .
-. . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . .
-SNAPSHOT OF REPRESENTATION AT YORK TODAY. . .
-OVERARCHING STRATEGIC DIRECTIONS AND MAJOR NEW CAMPUS-WIDE ACTIONS . . . . . . . . . . . . . . . .
-THE DEDI STRATEGY IN ACTION . . . . . . . . . . . . . . . . . . . . . DEDI STRATEGY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-STRATEGIC DIRECTION: TEACHING AND LEARNING Recommendations for new university-wide initiatives. Recommendations for continuing initiatives. . . . . . . . . . . Taking action, making impact:. . . . . . . . . . . . . . . . . . . . . . . . . Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-STRATEGIC DIRECTION: RESEARCH AND INNOVATION . Recommendations for new campus-wide initiatives . . . . . . Recommendations for continuing initiatives. . . . . . . . . . . . . . . Taking action, making impact:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Recommendations for continuing initiatives. . . . . . . . . Taking action, making impact:. . . . . . . . . . . . . . . . . . . . . . . Benchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-STRATEGIC DIRECTION: CAMPUS CLIMATE
-AND ENVIRONMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Recommendations for new campus-wide initiatives
-. . .
-. . . . .
-. . .
-. .
-. . .
-. . . . . . . . . . . . .
-. . Why do we, as settlers, acknowledge the land?.
-Understanding the Land Acknowledgement .
-APPENDIX B: PAC ON EDI STRUCTURE
-AND MEMBERSHIP. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Chair.......................................... Steering Committee . . . . . . . . . . . . . . . . . . . . . . . . . . . Appointed Members . . . . . . . . . . . . . . . . . . . . . . . . . . Faculty Representatives . . . . . . . . . . . . . . . . . . . . . . Divisional Representatives. . . . . . . . . . . . . . . . . . . . Undergraduate Students (appointed). . . . . . . . . Graduate Students (appointed). . . . . . . . . . . . . . . Post-Doc Representative (appointed). . . . . . . . . Staff At-Large Representatives. . . . . . . . . . . . . . . . Faculty At-Large Representatives . . . . . . . . . . . . . Technical Support Team . . . . . . . . . . . . . . . . . . . . . . Additional Support Staff . . . . . . . . . . . . . . . . . . . . . .
-. . . . .
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 4
+While we pride ourselves that BCC is an iconic destination here in Toronto, we are most proud of the work behind the scenes to foster youth leadership, document a neighborhood’s history, promote community well-being and launch innovation.
 
- EXECUTIVE SUMMARY
-The York University Decolonizing, Equity, Diversity and Inclusion (DEDI) Strategy is a community-informed strategy, resulting from the collaborative efforts of the President’s Advisory Council on Equity, Diversity and Inclusion (EDI),
-a body charged to provide advice and guidance to advance an EDI strategy, and the Office of the Vice-President Equity, People and Culture, charged to lead the development
-and implementation of a strategy. This is the first effort to formalize and coordinate DEDI efforts across the University to collectively drive the vision and action required to create a decolonizing, inclusive and equitable environment where all members of the York community experience a sense of belonging, connection and well-being.
-DEDI is central to the core values of York University. This strategy acknowledges the University’s colonial structures and appreciates that many forms of discrimination and oppression exist both in society and in higher education. The DEDI Strategy provides a lens on the University’s past, present and future, allowing it to focus clearly on the efforts and resources needed to drive change.
-The document can be read as two parts. The first part of the document lays out the University’s vision, the background and environment which informed the development of the strategy, the principles that inform DEDI work and the strategy at York, as well as a snapshot of employee representation at York. The principles of decolonization, equity, diversity, inclusion, accessibility, anti-racism, human rights, Indigenous rights, intersectionality, reconciliation, rights of the planet and social justice will guide decisions, actions, and behaviours.
-The second part of the document is where the strategy itself is laid out. The DEDI Strategy is comprised of five strategic directions that provide focus for enabling activities: teaching and learning, research and innovation, representation and success, campus climate and environment, and leadership and capacity building. Each strategic direction is comprised of four areas of recommendation: new campus-wide initiatives; initiatives already in progress; calls to action for the University community to consider (“taking action, making impact”); and benchmarks to signal success. The final section of this part of the document outlines what activities will take place next in order to enable the plan. An implementation plan and a toolkit for the community will be developed and shared broadly.
-The delivery of this strategy is considered to be the beginning of a conversation and commitment to DEDI that will continue to evolve over the lifespan of the strategy (2023-2028) and beyond. Together with other key equity initiatives, this strategy and its underlying principles will lead to a greater sense of inclusion and belonging where individuals feel they are treated equitably, enhance experiences for students and employees, empower individuals and communities and contribute to
-a community that can respectfully have uncomfortable conversations in order to drive collective understanding. Its successful implementation is dependent on the combined efforts of the entire university community and is central to the realization of the University Academic Plan.
-York University is proud of its commitment to DEDI and social justice. This strategy supports that commitment and advances the work, acknowledging that as the conversations around DEDI evolve, the strategy and the University will also evolve to drive progress.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 5
+Blackhurst Cultural Centre (BCC) – The People’s Residence was incorporated in 2015. It is a non-profit hub and destination that provides opportunities to experience the rich culture and history of Canadians of African and Caribbean ancestry. Located in Toronto’s iconic Bathurst-Bloor neighbourhood, BCC engages the public to learn about these proud stories using literature, music, drama, dance and visual arts. We invite everyone to join us on this journey of discovery, inspiration and celebration. LEGACY LIVES HERE!
 
- INTRODUCTION
-Founded in 1959 on the traditional territory of the Anishinabek Nation, the Haudenosaunee Confederacy, and the Huron- Wendat, York University is a leading interdisciplinary research and teaching institution with a vibrant and diverse community.
-Excellent learning and research and a commitment to collab- oration enable York to address complex challenges and create positive change in the local and global communities it serves. Students, faculty, instructors, staff and alumni are passionate about building a just, inclusive and sustainable world.
-As a colonial institution, York has committed to the process of decolonization and to addressing all forms of discrimination, to ensure a sense of belonging, connection and well-being for all members of the community. Maximizing the impact of this strategy requires that everyone share responsibility for supporting and enriching each other’s views and experiences with the goal of fostering individual and collective success. York’s commitment to this pursuit is clearly embedded in its mission, vision and values.
-The University Academic Plan 2020-2025: Building a Better Future (UAP)2 further commits to these core values through the six Priorities for Action. As well, the UAP challenges
-the York community to answer the call made by the United Nations Sustainable Development Goals. Several of these goals have clear connections to the work York has undertaken as it relates to decolonization, equity, diversity and inclusion.
-A VISION FOR THE FUTURE
-York’s vision for an equity strategy is based on a commitment to decolonization, equity, diversity and inclusion (DEDI). Decolonization rests on an understanding of colonialism and the ways in which university culture and processes system- ically reproduce systems of oppression and discrimination. Striving toward equity requires mechanisms that recognize, acknowledge, account for and redress the inequities of domi- nant cultures and practices. This calls for specific attention to the legacies of ongoing colonialism and supremacism3 and their detrimental impacts. Creating a sense of inclusion and belonging requires supportive structures and social spaces where diverse perspectives are heard, acknowledged and respected.
-Thus, a comprehensive DEDI strategy appreciates that many forms of oppression and discrimination exist, with wide- ranging consequences. The context is not static; identities are dynamic and intersectional, and they will change across contexts and over time – including resistance to identification itself. External events can also amplify discriminatory behaviours, as was evident during the pandemic with the rise of anti-Asian racism and the rise in 2022 of Antisemitism and Islamophobia.
-York aims to facilitate a decolonizing, inclusive, diverse
-and collaborative ecosystem that promotes individual and collective flourishing. Achieving an inclusive and equitable community is not a destination but rather a journey that requires ongoing attention and action. Organizational change must be informed by the foundational and ongoing work to advance DEDI through research, curriculum, teaching, service and programming.
-     2 The UAP is a senate-approved plan that fundamentally supports the development and implementation of DEDI related frameworks and strategies. The UAP was launched during a time that “demonstrated extraordinary creativity, solidarity, and dedication to serving the public good while caring for all people, including the most marginalized and vulnerable.” It seeks “to bring expertise from across disciplines to build new tools and strategies to tackle the myriad dimensions of these historic crises.” The UAP also aims to advance the UN Sustainable Development Goals (UNSDGs). The UAP provides for the administration to develop and implement strategies such as this DEDI strategy and many of the actions found within it. For example, under the 21st Century Learning priority there is a commitment to pursuing inclusive excellence by decolonizing curriculum.
-3 Including for example, class, caste, gender, sexuality, religion, origin, race, ability.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 6
 
- A NOTE ON TERMINOLOGY
-This strategy strives to use current, relevant, inclusive and affirming language. Terminology also shifts and changes
-with time and York is committed to actively and continuously adapting its language in accordance with these changes. The strategy aims to be as specific and descriptive as possible. York recognizes that there are limitations to language. For example, not everyone will self-identify with the terms used
-to refer to groups of people. York also acknowledges the rich diversity and difference within and across communities; no group is a monolith and terms are rarely sufficient to reflect those complexities. This document often refers to specific groups in the collective in order to address broad systemic issues. For example, the choice to use the term “racialized people(s)” to describe groups of people who experience racism, which may include Indigenous, Black and other people of colour.
-This document uses person or people with disabilities, under- standing that not all people identified with a disability agree with such classification or use this terminology, and that this general term does not capture the nuances of disability across a broad spectrum of lived experiences. The terms Indigenous and Black are used to honour the distinct experiences of Indigenous and Black people and to align with the Indigenous Framework for York University and the Framework and Action Plan on Black Inclusion.
-In some places, “2SLGBTQIA+” is used to denote people
-of various sexual orientations and gender identities. Where gender is referenced, this includes non-binary, transgender, and cisgender identities. References to political and religious discrimination include Antisemitism and Islamophobia and they may also apply to other groups. The term “equity-de- serving groups” is an umbrella term used to refer to groups who have historically experienced disadvantage and discrim- ination based on citizenship, race, national or ethnic origin, colour, ancestry, religious and/or spiritual beliefs, sex, sexual orientation, gender identity or expression, disability, marital status, family status, or age. The University acknowledges that some of the terms used in this strategy tend to be used more frequently in academic circles. Readers may also refer to the Glossary for additional terminology.
-  Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 7
+The Board and staff of Blackhurst Cultural Centre acknowledge the original caretakers and storytellers of this land – the Mississaugas of the Credit, the Anishinaabeg, the Chippewa, the Haudenosaunee, the Métis, and the Wendat First Nations. We thank these mighty nations for allowing us to build our families, homes and dreams in this land. We pledge to walk hand in hand with them as we journey on the road to self-determination. Meegwetch.
 
- OVERVIEW OF PROCESS
-The President’s Advisory Council on EDI was formed in the late fall of 2020. Membership is broadly representative and diverse, consisting of nearly 50 participants (Appendix B). These include at-large representatives of academic and non-academic staff, and selected representatives from Faculties, Divisions, specific committees, and constituencies such as undergraduate and graduate students. The council was charged with providing advice and recommendations
-on how to advance a DEDI strategy at York. It enables and supports York students, faculty, instructors and staff to participate meaningfully in planning and implementing a DEDI strategy, with the goal of cultivating a campus culture that is diverse, equitable and inclusive.
-Council members spent time educating themselves about promising EDI practices in the post-secondary sector. This included launching Insights: A speaker series on EDI in February 2021 with the goal of encouraging learning and conversations about EDI across the University.
-Structurally,4 the council established four sub-committees
-to allow for more focused conversations in the development of the strategy. The four sub-committees were formed around constituency groups: academic staff; non-academic staff; undergraduate students; and graduate students. The sub-committees were responsible for exploring special topics and/or investigating specific types of experiences through research and consultation with the York community, then reporting their findings and recommendations. Specifically, they were charged with exploring seven thematic areas as they relate to the constituency groups: teaching and learning; research and innovation; campus environment; employment; access and community engagement; capacity building; and accountability. Their findings and recommendations informed the draft strategy.
-COMMUNITY FEEDBACK
-In addition to the representative input from its members, the council received input from several sources, including a one-question survey posed to the University community in September 2021, to further the council’s understanding of community expectations for a DEDI strategy.
-A Draft EDI Strategy For Community Feedback was released in late March 2022, with a formal feedback period open to early May 2022. Comment was received through several sources including a university survey, feedback sessions, presentations and invited written response. The survey was open to all community members, with 128 completed responses received. Most came from women and/or equity-deserving individuals. Nineteen feedback sessions were scheduled
-(11 held) that were either open to the community or with invited partners, including the Senate Equity sub-committee and labour partners. A total of 42 individuals registered to attend these sessions. During this period, 18 presentations were given to larger groups, totalling 770 participants, where additional feedback was received through question-and-an- swer opportunities. Fifty-nine special interest groups, such as student organizations, Organized Research Units (ORUs) and committees were invited to provide written feedback on the Draft Strategy. Thirteen written submissions were received.
-Two ad hoc sub-committees were subsequently formed, one to address the inclusion of decolonizing as a fundamental part of EDI and the second to review the feedback received and recommend edits.
-   4 See Appendix B for a diagram of the Council structure.
-  Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 8
+We want to give a huge shout out to our members and so many of you that participate in and support our programs, events and activities. Thank you.
 
- PRINCIPLES
-The following principles5 guided the work of the President’s Advisory Council on EDI. It is hoped that these will provide common language and understanding in the implementation of the strategy and in related conversations across the university community.6
-DECOLONIZATION
-Decolonization refers to the social and political movement for Indigenous self-determination, and the liberation of all humans and non-humans from the oppression of colonial systems, institutions, logic and practice.
-Decolonization is foundational to the work of EDI and requires a deeper understanding of colonialism, which is driven by
-an excessive need for power and control of land, people
-and resources to achieve economic gain, impose ways of thinking and dominate all aspects of life. Fuelled by specific ideologies, including white supremacy, Christianity, capitalism and imperialism, colonialism depends on the judging of people Indigenous to the lands being colonized as inferior and requires the colonizers to assert superiority as justification for their actions. Colonialization is violent, and in many countries, including Canada, it is ongoing. Colonialism is built on racial hierarchies that justify the displacement, enslavement and forced assimilation of colonized peoples (Cote Meek, 2014; Tuck and Yang, 2012; Veracini, 2010).
-Colonialism is a structure and a process that operates at all levels in academic institutions, including in the hierarchical organization, governance and knowledge production, and it is legitimized through teaching and research and the individual- istic values and competitive interactions that operate within and beyond the academy’s walls. Academic institutions are implicated in perpetuating colonialism, and they must identify, challenge and revise assumptions, ideas, values and practices that reflect colonialism’s dominating Eurocentric influence.
-Decolonizing requires the critique of Euro-western worldviews, including white supremacy,7 heteropatriarchy, ableism, xeno- phobia, imperialism and capitalism. Decolonization recognizes the interdependence of groups oppressed under colonialism, and it centres the diversity of Indigenous knowledges in service of the re-establishment of Indigenous sovereignty and the repatriation of Indigenous land and life.
-Decolonization is not a linear process; rather, it is a collective multidimensional approach that informs institutional principles and practices, strategic directions and distribution of resources, and it creates conditions for transforming social and political relations with Indigenous Peoples.
-York will support the process of decolonization by identifying and responding to the ways that Euro-western worldviews, structures of governance and individualistic values have organized our relationships with humans and non-humans, to our work, ourselves, and one another. Importantly, the strategy recognizes Indigenous rights, including Indigenous Peoples’ right to self-determination.
-EQUITY
-Equity refers to the guarantee of fair treatment, access, oppor- tunity and advancement for students, faculty, instructors and staff at every stage of educational and career development.
-Equity in the post-secondary educational sphere refers broadly to ensuring access and opportunities in research, knowledge, and pedagogy, employment and career development, recog- nizing that systemic imbalances and barriers faced by some people require differential responses to effectively promote justice and fairness.
-York University acknowledges that the existence of historically underserved and underrepresented populations from equi- ty-deserving groups. The University further recognizes that policies, practices, informal processes and language created by and for particular groups, with a default norm in mind, produce structural barriers that limit access and inclusion for other individuals and groups.
-Equity in research, knowledge and pedagogy encourages diverse ways of knowing, theorizing and expression and allows individuals to engage with concepts and ideas beyond the dominant and privileged hegemony. Equity in employment requires that principles, policies and practices promote and enable equitable access, representation, and opportunities.
-    5 The council decided to place the principles of DEDI first, then to use alphabetical order so as not to elevate any one principle over another.
-6 We would like to acknowledge that these principles are informed by the ongoing work at many institutions including York University, the University of Alberta, Grand
-Valley State University, McMaster University, the Ontario Human Rights Commission, Ontario’s Anti-Racism Strategic Plan, the Alberta Civil Liberties Research Centre, and the University of Alberta, among others.
-7 Racism maintains these hierarchies and the colonial ways of thinking and practices that legitimize oppression, including in post-secondary institutions. Decolonization requires an understanding of the historical and ongoing connection between colonialism and racism, as a relation that is both local and global. It is a process that recognizes the interdependence between groups of people oppressed under colonialism.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 9
+Support BCC
+Stay in the loop!
+Signup for our newsletter for the beat of black culture.
 
-Equity as a guiding principle means that York must be inten- tional in revising its processes and practices to remove barriers and demonstrate meaningful change, thereby ensuring that historically excluded groups have the same opportunities to fully flourish at the University.
-DIVERSITY
-Diversity refers to the presence of difference and variety of personal experiences, values and worldviews that arise from difference of culture and circumstance.
-Such differences encompass race, ethnicity, sexual orientation, gender identity and expression, disability, age, class, religion, and spirituality, geographic location, and culture. Within universities, diversity also encompasses difference or variety in education, perspectives, opinions, heuristics, disciplines, skills, and learning styles.
-York University supports and encourages diversity through
-the identification and removal of barriers and biases, and the creation of workplaces and learning environments that are free of harassment and discrimination. We affirm and celebrate diversity at York.
-INCLUSION
-Inclusion refers to enabling all individuals on our campuses to fully enjoy the opportunities the University offers creating a sense of belonging.
-Inclusion means that we value and cultivate full and mean- ingful engagement of historically and structurally excluded individuals and groups in a healthy and affirming climate.
-Inclusion is “the active, intentional, and ongoing engagement with diversity — in people, in the curriculum, in the co-cur- riculum, and in communities (intellectual, social, cultural, geographical) with which individuals might connect — in ways that increase one’s awareness, content knowledge, cognitive sophistication, and empathic understanding of the complex ways individuals interact within value systems and institu- tions.” (Association of American Colleges and Universities)
-Inclusion also means actively identifying and addressing oppression and discrimination.8 Racism, sexism, homophobia and other forms of discriminatory behaviour can take on overt and covert, direct and indirect, intentional and unintentional forms at both the individual and organizational levels. Similar grounds for discrimination may be perpetrated and expe- rienced differently by different communities or individuals;
-for instance Muslim and Jewish individuals may experience discrimination on the basis of religious or political grounds or both but these forms of discrimination may manifest differently.
-Inclusion establishes an environment in which all individuals and communities are able to thrive in authentic ways, which includes fostering a sense of belonging. Moreover, an inclusive and welcoming climate embraces differences, for example religious and political differences, so that all people can participate fully in university life.
-York is committed to the advancement of inclusion, addressing discrimination and creating environments where individuals feel welcomed, respected, supported and valued.
-ACCESSIBILITY
-Accessibility refers to the degree to which physical, peda- gogical, financial, social, and administrative structures are (re)designed to enable the full, meaningful, and equitable engagement of all community members.
-Accessibility is a foundational principle for proactive and universal design and implementation of policies and practices to remove barriers that limit the equitable and meaningful access to participation and opportunities for people with labelled disabilities and variations in functioning and aptitude, which include cognitive, neurodiversity, learning, visual, motor, auditory, and medical disabilities, as well as disabilities of mental health. Accessibility includes, for example, designing for physical, financial, sensory, social, and language-level access. Historical and current systemic barriers to inclusion require specific changes to systems, ideologies and behaviours to support the full participation of everyone in our community. York has a legal and social obligation to reduce as many barriers as possible, while creating efficient, transparent processes for individuals to gain accommodations.
-ANTI-RACISM
-Anti-racism refers to taking proactive steps to fight racial inequity. It differs from other approaches that may focus on multiculturalism or diversity because it acknowledges that systemic racism exists, and it actively confronts the unequal power dynamic between groups and the structures that sustain it.
-Anti-racism involves consistently assessing structures, policies and programs to ensure they are fair and equitable for everyone, including through the monitoring of outcomes.
- 8 The Canadian Human Rights Commission (CHRC) defines discrimination as an action or a decision that treats a person or a group negatively for such reasons as race, national or ethnic origin, colour, religion, age, sex (which includes pregnancy), sexual orientation, gender identity or expression, marital status, family status, disability (which includes mental health disorders), genetic characteristics or a conviction for which a pardon has been granted or a record suspended.
-   Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 10
+Email
+Subscribe
+Blackhurst Cultural Centre
+The People’s Residence
 
-It actively examines the power imbalances between racialized people and non-racialized or white people. These imbalances play out in the form of privileges that white people benefit from, and racialized people do not.
-York aims to practise anti-racism by identifying systems
-of power and privilege at the University, with the goal of understanding how they affect the lived experiences of racialized and Indigenous Peoples who work and study on our campuses, and it will work to make changes to foster a more equitable community.
-HUMAN RIGHTS
-Human rights recognize the inherent dignity and universal, equal and inalienable rights of all people. It recognizes all people’s entitlement to pursue individual interests and oppor- tunities, contribute to society, and enjoy a life of dignity, equity and respect, free from discrimination and harassment.
-York is committed to upholding human rights, and recognizing dignity for all, as set out in the Ontario Human Rights Code, which promotes equal treatment and prohibits discrimination and harassment on the basis of citizenship, race, colour, ancestry, ethnic origin, place of origin, religious and/or spiritual beliefs, sex, sexual orientation, gender identity, gender expression, disability, marital status, family status, age and any other protected grounds, amended over time. The University will reflect this in its work and practices, and it will endeavour to identify root causes of discrimination and work towards bringing about broad, systemic change.
-INDIGENOUS RIGHTS
-Indigenous rights refer to the collective and inherent rights of Indigenous Peoples, which derive from their relationship with land and territories. These include rights to use, develop and control the lands, territories and resources they possess by reason of traditional ownership, occupation or use, as well as those they have otherwise acquired. The right to self-determi- nation and self-government and the right to practise one’s own culture, spiritual traditions, languages and philosophies are fundamental.
-York will take action to understand and respect the inherent rights of Indigenous Peoples, Indigenous knowledges, cultures and traditional practices, recognizing the importance of education, relationship building and reconciliation in advancing Indigenous priorities.
-The development of this work takes place against the backdrop of Indigenous treaty relationships, Canada’s constitutional and human rights obligations and international frameworks such as the United Nations Declaration of the Rights of Indigenous People (UNDRIP).
-INTERSECTIONALITY
-Intersectionality9 refers to the interconnection of various categories of social diversity (race, class, gender, sexuality, disability, nationality, religion, language, age etc.). It acknowl- edges that they do not exist in isolation and that together they can have a cumulative impact.
-Intersectionality focuses on how multiple interwoven vectors shape social belonging, cultural representations and social and political institutions, as well as the material conditions, in ways that are not reducible to any singular vector or social category.
-Intersecting social categories play a role in exclusion, and they shape social, political, and material marginalization and dominance. Experiences and systems of persistent social inequality can only be understood through an intersectional framework.
-York will act with understanding of the unique lived experiences and barriers faced by different equity-deserving groups, and it will recognize the importance of considering both intersectional and disaggregated issues and the needs of these equity-deserving groups.
-RECONCILIATION
-In response to the Truth and Reconciliation Commission of Canada (TRC, 2008-2015), reconciliation has come to have specific reference to a process of building and sustaining respectful, ethical relationships between Indigenous peoples and the rest of Canada, based on mutual understanding and respect.
-Truth and reconciliation in education includes acknowledging and responding to the ongoing legacy of colonialism in post-secondary institutions, the violent impact of which has produced the need for decolonization, equity, diversity and inclusion. York is committed to the work of truth and recon- ciliation, to recognize and redress how academic institutions perpetuate colonialism, and to explore ways of transforming the University.
-   9 The term “intersectionality” was first coined by Black feminist scholar Kimberlé Crenshaw in articles published in 1989 and 1991.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 11
+777-779 Bathurst Street
 
-Within the context of this strategy, York embraces new projects and processes arising out of our response to, but not limited by, the TRC’s 94 Calls to Action. We acknowledge that while the lack of action in response to the Calls to Action has caused a “Reconciliation Is Dead” response from many Indigenous Peoples, the hope for reconciliation continues to guide our actions.
-RIGHTS OF THE PLANET
-Informed by Indigenous philosophies and the United Nations General Assembly Resolution, this refers to the rights of all entities to life-sustaining conditions. Humanity has a shared responsibility to protect all of creation. (Deloria, 1994; Kimmer 2013)
-York acknowledges the rights of the planet and accepts responsibility to act with regard for planetary well-being.10 Fundamental to living well together, this includes recognizing the importance of living in balance within the environment and ensuring that the rights of all living creatures are respected. York endorses the United Nations General Assembly’s resolution, recognising the fundamental human right to live in a clean, healthy and sustainable environment.
-SOCIAL JUSTICE
-Social Justice refers to creating a fair and equal society in which each individual matters, their rights are recognized and protected and decisions are made in ways that are fair and honest.11
-Social justice serves as the conceptual foundation for York University’s commitment to DEDI. The University recognizes its responsibility to examine traditional power structures and to address unfair treatment of any community member within these structures.
-York aims to educate and empower all members of the community to think critically about systems of marginalization and oppression. This includes a deeper understanding of power and privilege, and the need for everyone in the commu- nity to work toward equity and fairness.
-10 This DEDI strategy will work in concert with York’s Sustainability strategy and as such, this principle connects the DEDI strategy to sustainability.
-11 Source of definition: Oxford Reference https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100515279
-         Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 12
+Toronto, Canada
 
- EXTERNAL ENVIRONMENT
-To understand current trends and practices in equity, diversity and inclusion (EDI), the President’s Advisory Council on EDI undertook an external environmental scan. The scan provides a snapshot of current trends, challenges and promising practices on EDI in higher education institutions (HEIs) for women, Indigenous Peoples, people with disabilities, racial- ized peoples, and members of the 2SLGBTQIA+ community (referred to collectively as equity-deserving groups).
-The scan identified three broad themes around EDI, briefly summarized below:
-Institutional structures. This theme includes offices, services, staffing, committees, policies and plans that enhance or facilitate EDI within higher education.
-Academic affairs. This theme includes curriculum devel- opment and course requirements, teaching and learning including pedagogy and learning environment, and research approaches.
-Practices. This theme includes hiring and retention practices, leadership approaches and assessment tools that HEIs utilize.
-Additionally, the council undertook a survey of trends in EDI plans and strategies at a variety of Canadian and American HEIs, which also contributed to the discussions of the council and the steering committee and helped inform this strategy.
-To read the full scan, please visit the President’s Advisory Council on EDI website.
-   Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 13
+M5S 0B7
 
- INTERNAL ENVIRONMENT
-The council also undertook an internal environmental scan early in the process, to understand where there are policies, programs, departments, committees and activities related
-to EDI happening across the University. There is a great deal in progress, a sampling of which is identified in the internal environmental scan presented to the council in February 2021, and available on the council’s website. The council also received a detailed slide deck on Addressing Indigenous and Black Racism in Higher Education and related institutional activities from a Justice, Equity, Diversity and Inclusion
-(JEDI) group convened by the Senior Advisor on Equity and Representation to the VP Equity, People and Culture, who undertook a survey of activities happening across the University and identified some key considerations for this strategy.
-  Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 14
+416.901.7720 | info@blackhurstcc.org
 
- SNAPSHOT OF REPRESENTATION AT YORK TODAY
-York has collected self-identification data for employees since as early as 2004, and in 2020 began disaggregating the data. Student self-identification data is being collected for the first time at York in the fall of 2021, with the launch of a new student census, and was not available at the time of writing. The details below are sourced from the Employment Equity Survey data and the 2021 Annual Report. To see further disaggregated data, readers can review the Employment Equity Annual Report online.
-Please note that intersectional data is not available at this time, due to current limitations with the data analysis software. As the conversations and research around DEDI continue to evolve, the University anticipates that deeper levels of data analysis and understanding will follow.
-Figure 1 provides a summary of employee representation rates across five groups (women, Indigenous Peoples, racialized groups, persons with disabilities and 2SLGBTQIA+) from 2019 to 2021.
-Figure 1: Summary of Employee Representation Rates Across Five Groups (2019-21)
-  70 .0
-60 .0
-50 .0
-40 .0
-30 .0
-20 .0
-10 .0
-0.0
-               20 19
-20 20 Women
-20 21
-All Employees
-20 19
-20 21
-Academic (YUFA - Full time) Academic (CUPE 3903 - Contract/PT) Non-Academic
-20 20 Indigenous
-20 21
-20 19
-20 20 2SLGBTQ+
-20 21
-20 19
-Racialized Groups
-Based on data for 2021, women made up 56.2% of all employees at York. This compares to an aggregated external availability figure of 52.4%. Internal representation figures for women continue to be relatively stable when compared to figures from 2019 and 2020. Among women, academic employees had an internal representation of 50.6% versus an external availability of 48.9%, whilst among non-academic employees, internal representation stood at 63.3% versus an external availability of 56.3%.
-20 20
-20 19
-Persons with Disabilities
-20 20
-20 21
-      Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 15
 
-Figure 1 indicates that in 2021, 0.8% of the total employee base identified themselves as Indigenous Peoples. This compares to an external availability figure of 1.8%. Academic employees have an internal representation figure of 0.8% versus an external availability figure of 1.6%. Non-academic employees have an internal representation rate of 0.8% compared to an external availability rate of 1.8%.
-At the end of 2021, the University had an internal representation for racialized persons of 25.3% among total employees, compared to an external availability of 29.7%. Academic employees had an internal representation of 17.4% versus an external availability of 27.7%. Non-academic employees had an internal representation of 36.4% versus an external availability of 34.1%.
-Overall, 5.0% of the total employee base identified themselves as persons with disabilities in 2021. This compares to an external availability figure of 8.8%. Internal representation of persons with disabilities for academic employees was 5.2% versus an external availability of 8.9%. Non-academic employees had an internal representation of 5.1% versus an external availability of 8.8%.
-Figure 2: Summary of Senior Management Representation Rates (2021)
-  50 .0 45 .0 40 .0 35 .0 30 .0 25 .0 20 .0 15 .0 10 .0
-5.0 0.0
-             Women
-Indigenous Peoples
-Persons with Disabilities
-Racialized Groups
-Black
-South Asian
-East Asian (Chinese, Filipino,
-J ap an es e , Korean, SoutheastAsian)
-Other (Arab, Non-White Latin, Non-White West A s i a n )
-LGBTQ2*
-Senior Managers - York University
-Senior Managers - Statistics Canada
-In 2021, 6.2% of total employees self-identified as 2SLGBTQIA+, and for the past three years, internal representation of 2SLGBTQIA+ among total employees has been increasing. The internal representation of 2SLGBTQ+ for academic employees was 7.4%, and among non-academic employees, the internal representation of 2SLGBTQIA+ was 5.3%. External availability figures for the 2SLGBTQIA+ community were not available from Statistics Canada at the time of writing.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 16
+Wall 5
 
-The data provides information on where to focus our efforts to increase the representation rates of certain groups, in particular, Indigenous Peoples, racialized peoples and people with disabilities, where the overall representation rates fall below the external availability data provided by Statistics Canada. Unpacking the category of race is also important for a clearer understanding of representation as is looking at unit level data that may be different from the pan-University analysis. Additional detailed data is available in the annual Employment Equity Report.
-Figure 3: Summary of Middle Management Representation (2021)
-   60 .0
-50 .0
-40 .0
-30 .0
-20 .0
-10 .0
-0.0
-         Women
-Indigenous Peoples
-Persons with Disabilities
-Racialized Groups
-Black
-South Asian
-East Asian (Chinese, Filipino,
-J ap an es e , Korean, SoutheastAsian)
-Other (Arab, Non-White Latin, Non-White West A s i a n )
-LGBTQ2*
-Middle and Other Managers - York University
-Middle and other Managers - Statistics Canada
-A further look at representation in leadership at York, as compared to Statistics Canada representation rates, is found in Figures 2 and 3. Note in these that Statistics Canada representation rates for Senior Managers and Middle and Other Managers is not available for Black Peoples, South Asian, East Asian and Other (Arab, Non-White Latin, Non-White West Asian).
-In the data represented in Figures 2-3, York University seems to outperform Statistics Canada representation rates in most cases, with the exception of people with disabilities and Indigenous Peoples in middle managers. Again, at different levels of analysis, this will not always be true. Representation is unevenly distributed across the university. Importantly, the Statistics Canada data may also reflect biases or limitations in the data; while providing a benchmark for comparison, they are not necessarily the goals to which we aspire to drive equity, diversity and inclusion.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 17
 
- OVERARCHING STRATEGIC DIRECTIONS AND MAJOR NEW CAMPUS-WIDE ACTIONS
-This DEDI strategy focuses on five campus-wide core strategic directions:
-1. Teaching and learning
-2. Leadership and capacity
-DEDI STRATEGY
-Figure 4: York University 2023-2028 DEDI Strategy
- 3. Research and innovation
-I
-n
-c
-l
-u
-s
-i
-o
-n
-A
-i t y c
-c
-e
-4. Campus climate and environment
-v e r s s
-s
-D i i
-b
-i
-l
-e r s i
-t
-y
-A
-c
-a
-d
-e
-m
-i
-t
-c
-y
-n i v i
-P
-l
-U a
-n
-5. Representation and success,
-A
-n
-i t y t
-i
--
-u R
-E q r c h & T
-e
-a
-c
-a
-c
-There are several enabling activities that support the
-e a s t i o n L
-e
-h
-i
-n
-F
-r
-i
-e v a a
-g
-a
-s
-r
-m
-k R o n
-n i
-n
-&
-m
-implementation of the DEDI strategy at an institutional level
-r I n g
-e
-o w
-n e w o
-r
-that include the current University Academic Plan (UAP),
-o R
-k
-H
-u
-a t i m e
-g
-o
-m
-a the Indigenous Framework, the Framework and Action Plant
-z n
-i
-F
-r &
-p
-r
-&
-n
-i
-n
-a
-B
-n
-o
-l
-s
-S
-e
-i p
-l
-l
-R
-o
-i d
-on Black Inclusion, and the DEDI plans that exist in various
-c
-u
-u
-s
-h a
-i
-e
-o
-e
-s u c
-c
-h
-g
-D
-n
-c
-n
-r B k
-s
-t
-e
-e
-t
-y I
-faculties, divisions and units. This DEDI Strategy is meant
-g
-a
-e i
-s
-s
-t
-d i t c
-n
-d
-i
-o
-l
-S
-n
-o
-I
-n
-L e a p a c s
-u
-to augment these existing frameworks and plans serving as
-C a o
-i
-h t s c
-i
-n
-a
-C
-i g an umbrella to support and complement strategic planning,
-l
-a
-u
-R m
-t e s
-J
-p
-u
-C
-l
-i
-m a s &
-s
-u E
-n
-v
-m
-e n n o r
-o
-n
-t development, and implementation of focused activities to
-t
-i
-c
-i
-e
-F
-a
-e c
-n s i g u
-l
-d advance DEDI at York. Individual faculties, divisions and units
-t
-l a n R
-y
-D
-I P I i
-g
-h
-i
-v
-i
-s
-o
-a
-l
-a
-d
-D E D i
-n
-t
-will identify and resource appropriate enabling activities for
-s
-o
-n
-U
-n i t l i t y f
-a t
-n h
-e
-P
-c t i o implementation of their specific DEDI strategies and activities.
-la
-e n
-I n t e r s e
-R
-e
-c
-o
-n
-i
-a
-t
-i
-o
-n
-c
-i
-l
-In terms of the academic implications, it is also important that
-the University Senate and its committees, including Faculty
-Councils, also engage and foster the work of DEDI.
-While the Division of Equity, People and Culture takes a leadership role in advancing this DEDI strategy, success depends on the participation of the entire community including our students, faculty, instructors, and staff. Everyone has a responsibility to advance this work.
-THE DEDI STRATEGY IN ACTION
-This strategy is a long-term endeavour that will evolve over time. The recommendations included in this strategy cannot all happen at once – they represent initiatives proposed to be taken up over the next five years (2023 – 2028). This DEDI Strategy will serve the University beyond this period of time, anticipating the strategic directions will remain unchanged, yet knowing that priorities and initiatives will change in an ever-evolving climate and context.
-The strategy aims to embed DEDI into the fabric of York University in pursuit of living its mission and values. The DEDI strategy consists of several interdependent dimensions, institutionally embedding DEDI principles, practices and actions. This is visually represented as the head of a flower in Figure 4.
-At the core of the DEDI strategy represented in the eye of the flower are five people created and connected by a single line drawing that represents the York campus community broadly and, more specifically, undergraduate students, graduate students, faculty, instructors, and staff. People are at the heart of the strategy and should always be centred in the work.
-The eye of the flower is surrounded by a red circle where the five strategic directions of the strategy are located, indicating their core importance. These provide an intentional focus for the five years of the plan to help drive transformative change. The five strategic directions are described in more detail. Each strategic direction is defined and discussed in terms of recommendations for new campus-wide initiatives; initiatives already in progress; calls to action for the University commu- nity to consider; and benchmarks to signal success.
-The light blue circle references University strategies and plans that are connected to the DEDI strategy and the strategic directions. The inclusion of this circle is meant to indicate the interconnectedness of this work across the university commu- nity. These include the UAP, the Indigenous Framework, the Framework on Black Inclusion and the individual faculty, divisional and unit DEDI plans that already exist or are being formed.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 18
+Copyright 2023 — Blackhurst Cultural Centre, created By Anthony Berot
+Scroll to Top
 
-There are 12 outer petals of the flower, each one representing one of the principals outlined earlier in the strategy. Each petal, or principle, serves as a reminder of the purpose and goals behind DEDI. These principles form the basis for a common understanding and framing for DEDI work across the University
-STRATEGIC DIRECTION: TEACHING AND LEARNING
-York University will cultivate inclusive teaching and learning environments that nurture multiple and intersectional ways of knowing, including the incorporation of DEDI principles in curriculum and programs.
-The teaching and learning environment, and experiences
-in that environment, encompass a wide range of activities including the design of curriculum, experiences accessing teaching and learning in a classroom (physical or virtual), supporting academic activities (such as lab environments, tutoring programs), degree or program design, design and implementation of learning assessments, addressing barriers to success in specific roles related to teaching and learning and the array of supports associated with these activities (e.g. learning management systems, accommodations etc.).
-Consistent with the UAP, decolonizing curriculum and class- rooms requires that the University acknowledges the history of colonialism and the ways it impacts teaching and learning at the University. This involves disrupting the Eurocentric canons of thought and engages with issues of power, hierarchy, equity, tracing the origins of ideas etc. To reframe the curriculum, it is important to integrate research and resources authored by a diversity of scholars, including Indigenous, Black, racialized, 2SLGBTQIA+, persons with disabilities and equity-deserving scholars. Decolonizing classrooms also calls for utilizing
-a range of assessment practices to offer students options
-to demonstrate their learning and providing students with opportunities to engage and participate actively in their own learning through debate and discussion.
-Students have indicated that psychological and emotional safety in the classroom is important. Some of the ways in which student safety has been compromised include, but are not limited to, the following: inappropriate/insensitive course content, unmediated debates, faculty and/or instructors singling out students unnecessarily (e.g. inviting Indigenous students to address the class on Indigenous topics thinking they are experts on everything Indigenous) and problematic
-or derogatory use of language. Further, the ways that certain topics are taught in a classroom can reproduce and perpetuate stereotypes. It is important to pay attention to what is taught and how it is taught. To promote safer learning environments, the University must address this issue through policies, practices, and training for everyone.
-Recommendations for new university-wide initiatives
-• RequestthattheSenatereviewthoseaspectsthatliewithin its purview and those of its committees to incorporate DEDI principles in areas such as new program development, making major modifications to curriculum, cyclical program review recommendations, designing course outline templates etc.
-• Requestrelevantadministrativeunitstoconsiderwhat actions can be undertaken in support of incorporating
-DEDI principles in the operationalization of areas related
-to quality assurance, teaching and learning development and supports, and creation of inclusive experiential learning opportunities.
-• Developandimplementaneducationandprevention campaign on discrimination and harassment in the classroom for all individuals who intersect the teaching and learning environment (e.g. students, faculty, instructors, TAs, lab staff etc.) to be led by the Centre for Human Rights, Equity and Inclusion.
-• Developandimplementafour-partweb-basedcoursefor faculty and instructors on applying the principles of decolo- nization to classroom praxis to be co-developed by the Teaching Commons and the Associate Vice-President (AVP) Indigenous Initiatives.
-• Initiateasymposiumondecolonizingpracticesrelatedto teaching and learning to be co-developed by the Teaching Commons and the AVP Indigenous Initiatives.
-Recommendations for continuing initiatives
-• Thattraining,educationanddevelopmentopportunities
-for faculty, instructors, librarians, and academic support persons such as teaching assistants related to DEDI continue to be developed and delivered by the Teaching Commons. Existing training will be communicated more effectively, and training will include new topics such as problem-solving techniques in managing bias and racism in the academy (e.g. managing macro and microaggressions including but not limited to interpersonal violence such as misgendering and mispronouncing names, racial slurs etc., dealing with supervisors who evidence bias and racism, promotion of existing internal mechanisms for conflict resolution and support, how to disrupt whiteness in the academy).
-• Continueworktoensureappropriatesystems,policiesand accommodation guidelines are in place for transgender, non-binary and various gender-identified students, instructors, faculty and staff. This work will continue to engage SexGen (or relevant advisory and advocacy groups as may exist with the creation of the new advisory council on DEDI).
-• Continuetocreate,supportandpromoteaccessibleand inclusive experiential education opportunities through
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 19
+Skip to content
 
-expansion of supports for engagement of and with equity-deserving student populations and continued collab- oration with diverse community partners and organizations.
-• Continue to facilitate the Indigenous community book club, collaboratively run by the AVP Indigenous Initiatives and the Teaching Commons, which is open to the entire York community in support of building understanding of Indigenous perspectives on books written by Indigenous authors.
-• Continue to support and enhance the Indigenous Teaching and Learning fund out of the Provost’s Office, including increasing awareness of projects and building more champions for decolonizing work in the classroom.
-• Continue to implement relevant action items in the Action Plan on Black Inclusion, such as those in the area of Knowledge Creation, among others.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• Ensurethatdifferenthistories,globalperspectives,ways of knowing are reflected in curriculum including syllabus, content, course delivery and assessment, with a goal to ensure a diversity of scholarship and scholars.
-• Engage in a process of decolonizing courses, curriculum, programs of study, support services for students related to teaching and learning etc. This includes undertaking the learning necessary to understand decolonization as a process.
-• Encourage faculty and instructors to build flexibility into
-the course requirements to accommodate diverse student needs. For example: Create opportunities for students to show they understand course content and topics in different ways that are meaningful to them and move beyond traditional assessments and methodologies.
-• Providesupporttofacultyandinstructorsinbecoming well informed on DEDI, culture, history and how inequities manifest, including stereotypes in the classroom. Ensure there are opportunities to develop the capacity and
-skills to facilitate delivery of such content and classroom discussions.
-• Beopentolearnaboutsystemicracism,oppressionand discrimination (e.g. anti-Black racism, Islamophobia, Antisemitism, ableism, anti-Indigenous racism, anti-Asian racism, homophobia, transphobia) and dominant assumptions about behaviour/professionalism. These include unacknowledged assumptions of what is valued, permitted, stereotypes of communities that are reinforced, and what is being said in the learning environment, that may inadvertently advance a hidden or secondary curriculum.
-• Create and promote inclusive experiential education opportunities.
-• Utilizeuniversaldesignincurriculumdevelopmentand course/training delivery, which may include training and professional development opportunities for instructors, faculty and staff.
-Benchmarks
-Understanding that benchmarks will need to be established over time, and the mechanisms put in place be able to track University progress, the following benchmarks and/or moni- toring systems are recommended:
-• Evaluationmetricsontrainingopportunitiesprovided for faculty, instructors and facilitators of training and development sessions for staff to be led by the Teaching Commons, CHREI and Human Resources.
-• TheUniversitysenateconsidersundertakingareviewof program creation and standard course syllabi guidelines and reviews relevant policies and processes related to teaching, including experiential education, and the use of new and emerging technologies for curriculum delivery with a DEDI lens.
-• The development and evaluation of an education campaign related to discrimination and harassment in learning environments, to be led by CHREI.
-• Monitor key questions on learning and the learning environment, as identified by the Office of Institutional Planning and Analysis (in consultation with key partners) from regular recurring student surveys at the undergraduate and graduate levels, for improvement/progress.
-• Review of the Indigenous Teaching and Learning fund for applications, use and impact of the fund by the Provost and Vice-President Academic, and the AVP Indigenous Initiatives.
-STRATEGIC DIRECTION: RESEARCH AND INNOVATION
-York University will cultivate inclusive and equitable research environments that nurture multiple and intersectional ways
-of knowing, create and nurture diverse research teams and encourage research programs in traditionally equity-deserving settings.
-Research encompasses all areas of research and innovation activities, including funding; who conducts research; what informs how the research is carried out; what gets recognized as scholarly work and scholarly excellence; how research is approved and conducted; power dynamics in research groups; and how a researcher pathway is cultivated. All aspects of innovation work and how a group may intersect with this area of activity are also included here.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 20
+About
+Programming
+Support Us
+Contact Us
+News
+SearchSearch
+Search...
+Experience Our Programs & Events
+Together we can power our future.
 
-Recommendations for new campus-wide initiatives
-Under the leadership of the Division of Research and Innovation, in collaboration with divisions and faculties:
-• Conducteducationsessionsfortenure&promotion committees on the ways to recognize community-engaged research, mentoring and other forms of service and knowledge creation.
-• DevelopabestpracticeguideforresearchersonDEDIin the lab for researchers (for graduate students and research teams).
-• Identifyopportunitiestosupporttri-councilfunding opportunities related to DEDI; equity-deserving faculty in writing grant applications; and to further advocacy efforts related to DEDI and research with grant-funding bodies and agencies.
-• Identifyopportunitiestodevelopandimplementstrategies and programs to improve knowledge mobilization, entrepre- neurship, and innovation pathways for equity-deserving groups and research.
-• Supportthestrengtheningofresearchpartnershipswith equity-deserving communities with the goal of knowledge mobilization, recognizing that knowledge mobilization for those working with equity-deserving communities may take non-traditional formats.
-• Identifyeducationalopportunitiesforresearchersonhowto meaningfully incorporate DEDI principles and practices into their research programs including addressing DEDI consid- erations in research design and practices, recruitment,
-data collection and sex- and gender-based analysis plus (SGBA+) analysis, trainee recruitment, and research team participation.
-• In collaboration with the Indigenous Council and the Centre for Indigenous Knowledges and Languages, support the establishment of an Indigenous Research Ethics Board.
-Recommendations for continuing initiatives
-• Embed DEDI principles into the review processes for all funding programs and award nominations including Division of Research and Innovation administered internal funding competitions; internal research awards; institutional nominations for external awards and honours; and funding programs that require adjudication and peer-review, ensuring transparent and equitable criteria and processes.
-• Continuetosupportseedresearchfundingfordiverse scholars from equity-deserving groups (professorial, postdoctoral) to support capacity building in applying for external funding.
-• Continuetoassessandaddressrepresentationfromequity- seeking groups in faculty hiring including research chairs
-in fields of study as deemed necessary while also ensuring inclusive and equitable processes in all faculty hiring.
-• Continue to advance the York-Canada Research Chairs EDI Action Plan and the Dimensions Charter, as well as other existing and future government funding programs.
-• Continue the implementation of the Decolonizing Research Administration Report and Action Plan, co-led by the Office of the Vice-President Research and Innovation and the Office of the Vice-President Equity, People and Culture.
-• Evaluate and further develop the Place of Online Learning for the Adjudication of Researchers Inclusively and Supportively (POLARIS) to address decolonization in the training of
-those who rank, judge, adjudicate, or provide feedback on researchers and their applications.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• EnsurethatDEDIprinciplesandpracticesareembedded into research plans.
-• Develop dedicated access and outreach to research opportunities for diverse student populations (e.g.
-Black, racialized, Indigenous, people with disabilities, 2SLGBTQIA+, first-generation, international), recognizing that there are significant barriers to inclusion for students that need to be addressed in program design.
-• Support initiatives to create inclusive research environments in work and learning, specifically in research labs and teams, including mentoring.
-• EmbedDEDIprinciplesandpracticesinthereview processes for all funding programs and award nominations that are localized in unit. For example, ensure that nominees for research and other scholarly awards are representative, including under-represented equity-deserving individuals, and are sought out using inclusive practices.
-• Identify opportunities to strengthen meaningful research partnerships with equity-deserving communities.
-• Ensureresearch-relatedcommittees,researchteamsand supervisory committees have representative membership and operate with inclusive practices.
-• Ensure that conference representation enables participation of researchers, students and partners from equity-deserving groups and settings.
-• Ensure that research is not only disseminated in traditionally scholarly formats but also mobilized in formats accessible to the diversity of broader society.
-• Ensure that recommendations related to tenure and promotion encompass all the examples in the Tenure
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 21
 
-andPromotionsPolicy,CriteriaandProceduresandnot recapitulate the sole reliance on traditional forms of scholarly production and dissemination.
-Benchmarks
-Understanding that benchmarks will need to be established over time, and the mechanisms put in place to be able to track University progress, the following benchmarks and/or monitoring systems are recommended:
-• DEDIpracticesandprinciplesareembeddedinUniversity and faculty research plans.
-• TheResearchOfficewillexploretrackingapplicationand award rates from equity-deserving groups in grant and scholarship competitions, award nominations, and CRCs/ York Research Chairs. Evaluate the progress over time.
-• Track the implementation of actions from the Decolonizing Research Administration Action Plan.
-STRATEGIC DIRECTION: REPRESENTATION AND SUCCESS
-Through a range of efforts across the University, York will work to build an environment that is representative of the commu- nities it serves by actively recruiting, supporting, retaining, and advancing students, faculty, instructors, and staff from equity-deserving communities.
-Representation across all sectors of the University is important. This includes all aspects of the employment cycle and the student life cycle. To address representation, the University must pay attention to recruitment and retention initiatives as well as create conditions for success.
-Recommendations for new campus-wide initiatives
-• Undertakeadeeperreviewoftherepresentationratesand the complex array of barriers that equity-deserving domestic and international undergraduate and graduate students encounter when applying for their program of choice and meeting the requirements of successful completion to ensure appropriate outreach, recruitment strategies and supports are in place. To be led by the Division of Students in collaboration with the Faculty of Graduate Studies (FGS).
-• Assessfinancialbarriersforstudents(undergraduateand graduate); identify and seek funding and support opportu- nities to both reduce barriers for equity-deserving students and support affordability strategies/programs for students, to be led by the Division of Students.
-• Initiateafundraisingefforttosupportdecolonization, diversity, equity and inclusion-related initiatives, with a particular emphasis on support for scholarships, awards and bursaries, to be led by the Division of Advancement.
-• Createaconvocationreviewworkinggrouptomake recommendations to apply principles of DEDI to the ritual and ceremony of convocation.
-• CreateaDEDIprogramthatwillassistgraduatestudent admission selection committees, which may include education or tools in areas such as: reviewing the language in program descriptions; information on the selection of diverse admission interview committee members; materials to understand and identify unconscious bias; information on best practices for recruiting Indigenous Peoples, women, persons with disabilities and racialized peoples, to be led by FGS.
-• CreateaDEDIeducationprogramorsetoftoolsforall student award committee members (e.g. scholarships, bursaries etc.) to enable more inclusive approaches to recipient selection led by Division of Students in collabo- ration with FGS.
-• Developastrategyandactionplanforemploymentequity at York, including benchmarks for recruitment, hiring, and retention of equity-deserving individuals, qualitative and quantitative reporting mechanisms with the goal of building on existing dedicated hiring initiatives, increasing represen- tation, career progression, success and retention across all employee groups (faculty, instructors and staff), to be led by Division of Equity, People and Culture. This includes:
-• Reviewingandrevisinginterviewandhiringpractices to ensure universal design and ensuring gender-neutral language is used in job postings;
-• Reviewingandrevisingourunderstandingofqualifications for employment, for example what counts as “experience” through a DEDI lens and examining expectations of experience in areas or positions from which equity-de- serving individuals have been systemically and historically excluded;
-• EmbeddingDEDIasacompetencyintheYork competency framework for Confidential, Professional
-and Managerial (CPM) employees, which may include development and implementation of criteria for advancing into mid-level and senior-level leadership that requires demonstration of individual leaders’ commitment to DEDI;
-• EncouragetheUniversitySecretariattorequestthat faculty tenure and promotion (T&P) committees include DEDI principles in their guidelines.
-• Identifyingandimplementingopportunitiestoensurethat University-created learning opportunities utilize universal design principles and accommodate learners’ needs;
-• Developandmaintainaresourceguideaimedat decreasing barriers and increasing satisfaction and retention of employees with disabilities, led by CHREI;
-• Reviewingandrevising,asappropriate,anyexisting employment equity related programs or policies;
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 22
+DISCOVERY
+& Learning
+Strengthening skills and knowledge
 
-• Develop and launch of an employment equity data dashboard;
-• As an Anchor Institution12, support a local hiring strategy for all non-academic positions that recognizes the long-standing place-based relationship York has with
-its neighbouring communities. This strategy, developed in consultation with the Anchor York U Employment Working Group, will centre the valuable contributions that members of the community bring to the institution uniquely positioning York to leverage its economic power and human capital through the strategic recruitment of local13 residents for employment. This aims to increase representation and success in employee demographics and contribute to community economic wellbeing.
-• Create and embed best practice guidelines for the recognition and valuing of DEDI-related work in collabo- ration with Provosts, Deans, and collective bargaining units, in scholarship, teaching, educational leadership, and service for faculty.
-Recommendations for continuing initiatives
-• Implementastudentcensus,includinguseofdatatoinform reviews of student support services and development of new initiatives to support student success and retention.
-• EngagewithSexGen,RISE,ENABLEYorkandother relevant advisory/advocacy bodies to continue the work to ensure appropriate systems, policies and accommodation guidelines are in place.
-• Continue to support the creation of employee affinity groups to provide visibility, support and opportunities for staff, faculty, instructors, and student employees from equity-de- serving groups to connect (e.g. Black Staff Affinity Group). Resource appropriate supports, including budget allocations to the network(s) to organize events or activities.
-• Continue to cultivate donor relationships that support DEDI projects and that include financial support programs for equity-deserving students at both the undergraduate and graduate levels.
-• Support the development and implementation of alumni networks for equity-deserving groups and engagement activities for these alumni.
-• Continue regular reviews of accommodation policies and practices for all student and employee groups.
-• LabourRelationstocontinuetoworkwithunionpartnersto implement new and revised provisions related to DEDI that have been negotiated into renewal collective agreements in 2021 and 2022. This includes the first ever Joint
-Committees on Equity, Diversity and Inclusion that were negotiated into some collective agreements.
-• Implementation of relevant action items in the Action
-Plan on Black Inclusion continues, and may overlap with initiatives already identified, such as those in the thematic areas of Representation and Data Collection, among others.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• Embrace alternative ways of valuing/recognizing individuals’ contributions to York
-• Ensure diverse representation on all standing committees (scholarships and awards, petitions, Faculty Councils, resource-faculty graduate curriculum committees etc.).
-• Increaserepresentationinleadershiprolesfromequity-de- serving groups, such as program directors, chairs etc.
-• Embed DEDI principles and practices in the delivery of student-focused initiatives, programming, and events including the recruitment and training of staff and students engaged in such work.
-• Identifyopportunitiestorecruitandhireindividuals (including faculty, instructors and staff) from equity-de- serving groups and assess a state of readiness to welcome a diversity of individuals to the unit. If the unit is not ready to welcome diverse individuals, then actions need to be identified and taken to address the culture of the unit to change and be one that is inclusive and ready.
-Benchmarks
-Understanding that benchmarks will need to be established over time, and the mechanisms put in place to be able to track our progress, the following benchmarks and/or monitoring systems are recommended:
-• Developmechanismstomonitorkeystudentapplication, enrolment, retention and graduation benchmarks (undergraduate, graduate, continuing education etc.) annually.
-• Monitorproportionofequity-deservinggroupstoensure representation in employment at all levels and in all categories within the institution, annually for progress and against local representation rates where possible.
-• Develop mechanisms to monitor key employment equity benchmarks including rates of application, retention, failed hires etc. A retrospective analysis will be conducted to understand the success and lessons learned from dedicated
- 12 Anchor institution: the idea that an institution has a long-standing place-based relationship with the community it is located in. As a result of this relationship, the institution is uniquely positioned to intentionally leverage its economic power and human capital in partnership with the community to contribute towards the community’s wellbeing.
-13 Postal code areas M3N, M3M, M3L and M3J.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 23
+EMPOWERMENT
+& Solutions
+Building a talent pool with technical skills
 
-hiring programs with the view to make recommendations for future hiring practices.
-This work will be done with consideration to Indigenous data sovereignty. Consultations with York Indigenous community members will take place on what this means for the University in relation to equity benchmarks and data collection and may mean development of a consultation process on the collection, interpretation and publication of data involving Indigenous Peoples.
-STRATEGIC DIRECTION: LEADERSHIP AND CAPACITY BUILDING
-York University strives to be a community where all members demonstrate the knowledge and skills necessary to navigate through and lead in a diverse world. York commits to building capacity in its leadership to advance EDI for today, tomorrow and the future.
-Advancing DEDI requires leadership. Building capacity to lead is critical and includes support for a culture where DEDI is integrated into everything the University does, including a conceptualization of leadership as collaborative, relational, and responsive to members of the community. Opportunities will be provided for education and training, leadership development, building communities of practice, developing toolkits, support from institutional leadership, and building mechanisms for accountability.
-Recommendations for new Campus-Wide Initiatives
-• Buildavibrantcampusnetwork(communityofpractice)of professionals across the University who undertake DEDI work. The Centre for Human Rights, Equity and Inclusion (CHREI) will continue to expand its programs and activities designed to support these professionals, facilitate collab- oration, share and further enhance their work individually and collectively. The CHREI will develop leaders throughout the institution, matching their commitment with the skills required to shepherd real and lasting progress in individual units.
-• FurtherdevelopDEDIeducationprogrammingforleadership at all levels to deepen understanding and encourage modelling of inclusive and equitable behaviour and practices, with a focus on applied skills and performance management in diverse workplaces. To be led by Human Resources and Faculty Affairs in the Division of Equity, People and Culture.
-• Consult,developandimplementguidelinesandtoolkitsfor decision-making, policy writing, and program development that incorporate DEDI principles.
-• CreateanewadvisorycouncilonDEDI,buildingonthework of the current President’s Advisory Council on EDI and the
-President’s Advisory Committee on Human Rights and their sub-committees.
-• Develop leadership development programming to support underrepresented equity-deserving employee groups, to be led by Human Resources and Faculty Affairs in the Division of Equity, People and Culture.
-Recommendations for continuing initiatives
-• ContinuetoidentifyandresourceDEDIstrategicinitiatives through existing budget processes as one of the University’s key values.
-• Continuetoresource,develop,implement,andevaluate comprehensive education and training programs on
-DEDI for students, faculty, instructors, and staff. Embed this education and training in recruitment processes, onboarding, assessment and performance reviews, and professional development for staff, faculty and instructors, and in curricular and co-curricular contexts for students.
-• Facilitateandcontinuetoprovideopportunitiesforopenand respectful dialogue through continued implementation of the recommendations made during the President’s Initiative on Open and Respectful Dialogue. This includes continued efforts to build conflict engagement skills and practices among all members of the York community to equip people for working across differences.
-• ReviewtheWork-Study/StudentEmployeeBecomingYU process and program with a DEDI lens and further embed DEDI as a competency and learning opportunity.
-• ContinuetoimplementrelevantactionitemsintheAction Plan on Black Inclusion, such as those in the thematic areas of Decision-Making and Accountability.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• Supportthetraininganddevelopmentofallemployeesasit relates to DEDI.
-• Provideopportunitiestofostertheleadershipskillsand knowledge of under-represented Indigenous and equity-de- serving groups.
-• Createopportunitiestofosterrespectfuldialogueacross differences and to build conflict engagement skills and practice in community members.
-• Createopportunitiestoshareandlearnfromadiverserange of leadership practices, including, for example, Indigenous leadership practices.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 24
+WELLNESS
+& Health
+Promoting mental, spiritual, physical health and well-being
 
-Benchmarks
-Understanding that benchmarks will need to be established over time, and the mechanisms put in place to be able to track the University’s progress, the following benchmarks and/or monitoring systems are recommended:
-• Identifyanddevelopmetricstoannuallymonitor employment progression in leadership roles of equity-de- serving groups across all employee groups. To be led by the Division of Equity, People and Culture.
-• HumanResourcesandFacultyAffairs,incollaboration with key partners, to regularly evaluate and review DEDI training and education activities to ensure leadership at all levels is given opportunities to increase awareness and understanding of DEDI.
-STRATEGIC DIRECTION: CAMPUS CLIMATE AND ENVIRONMENT
-York University will work towards creating an inclusive and equitable community where everyone has the potential to
-feel a sense of belonging and that they are respected. The University will undertake initiatives to enhance the accessibility of physical and virtual spaces for students, staff, faculty, and instructors.
-Campus climate is understood to be the current perceptions and attitudes of staff, students, faculty and instructors regarding issues of equity and diversity on a campus. Campus environment is generally understood to be the sum of environ- mental factors that influence students’ learning and life, which involves three elements: physical, cultural and interpersonal. This can be applied to all community members, including employees. Campus climate includes the circumstances, objects, or conditions that surround all community members. Environment is not limited to the physical (built) environment, though that contributes significantly to a sense of place and belonging. This strategic direction includes co-curricular activities for students and how they are supported; expe- riences that contribute to the development of culture; how York community members are engaged; and the structures of the organization that help create and shape the environment where everyone lives, works and studies (such as policy or organizational structure).
-Recommendations for new campus-wide initiatives
-• DevelopandimplementaCampusClimateSurvey,runona regular cycle (for example, every three years), to measure progress and inform policy, system review, and program review and development, and share findings with the community. To be led by CHREI.
-• Undertakeareviewtoensurethatallstudentsuccess/ experience/engagement programs have embedded DEDI
-•
-•
-principles, with emphasis on peer-led programming/ initiatives/events, to be led by the Division of Students. Examples include Peer Mentoring, Peer Tutoring, Peer-Assisted Study Sessions (PASS), Peer Health Educators, Peer Ambassadors, Course/Class/Cohort Representatives, Peer Volunteers.
-Undertakeareviewtounderstandandproposeactions related to recognition and/or compensation for additional labour undertaken by equity-deserving students in equity-committee work at the University.
-Identifyopportunitiestoenhancetheinclusivityofphysical spaces on campus such as, but not limited to, the following:
-• Creating spaces for equity-deserving groups (students, employees etc.) to convene and create communities of support for one another;
-• Ensuringcampusinfrastructure,includingceremonial spaces, are physically accessible;
-• Identifyingofdesignatedspaceforbreastand chest-feeding (and CHREI to change the language in current guidelines to use all-gender language);
-• Thatarequirementbedevelopedforareviewofallnew major construction projects by a specialist consultant with an expertise in accessibility.
-• Considerimprovementstowayfindingthroughuseof technology such as connecting QR codes to campus maps/wayfinding apps; and
-• Ensurerepresentationofartfromequity-deservingartists is displayed in public areas across campus.
-Identifyandaddresspotentialbarrierstoaccessingthe digital campus environment(s).
-•
-Recommendations for continuing initiatives
-• Supportactivitiesthatenhancespacesandinitiativestoward inclusion for students, such as co-curricular programming, events, mentoring and peer support programs, academic support programs and skill development opportunities.
-• ContinuetoensureAODAcomplianceinallareas.
-• Continuedimplementationofsocialprocurementpolicies and procedures, which may consider creation of DEDI criteria to engage all external contractors to work toward supporting DEDI at York, and as a condition for being added to the preferred list of vendors or contractors for York.
-• Continuetoeducatethecampuscommunityaboutthe
-new Human Rights Policy and Procedures and to identify ways to have clear means for raising complaints and finding resolution.
-• ContinuetoimplementactionitemsintheActionPlanon Black Inclusion, particularly from relevant thematic areas
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 25
+CONNECTION
+& Community
+Creating new connections and sharing cultural experiences
 
-such as Safety, Mental Health and Community Engagement among others.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• Improveaccessibilityandinclusivityofbuiltanddigital environments, documents etc., where it is within their scope to do so.
-• Respondtotheclimatesurveyresultswhentheybecome available.
-• ProactivelybuildandstrengthenYork’srelationshipswith communities and organizations representing equity-de- serving groups, especially those close to our campuses.
-Benchmarks
-Understanding that benchmarks will need to be established over time, and the mechanisms put in place to be able to track the University’s progress, the following benchmarks and/or monitoring systems are recommended:
-• MonitortheCampusClimateSurvey,onceimplemented, for progress.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 26
+Art to Heart
+Audience: Adults
+Art nights: paint or art with someone from community impact/support for mental health art therapy.
+Learn More
 
- ENABLING THE PLAN
-While overall accountability for driving this strategy resides within the Division of Equity, People and Culture (EPC), every community member carries responsibilities, both in relation to the plan and to one another, for the creation and maintenance of an inclusive, welcoming, equitable community.
-As the objectives of the strategy are advanced, meaningful and transparent mechanisms of accountability across the system will need to be created. On an annual basis, the University will evaluate its progress, report to the community, and update the plan as necessary.
-The University will identify means to build accountabilities
-into existing evaluation and performance tools, such as the Integrated Resource Plan. These accountabilities will be incor- porated into the formal performance evaluations for senior positions, with the expectation that leaders, in turn, hold their own units accountable for developing and implementing their own strategies to support the DEDI goals laid out in this plan.
-Over time, the University will track metrics that represent important factors in assessing progress toward these goals. These metrics will be used in combination to determine whether specific shifts up or down, or lack of activity, repre- sent positive outcomes relative to creating a more diverse, equitable and inclusive campus. At regular intervals, the University will update the community on its progress.
-A review of the existing information regarding the state of the University has highlighted critical gaps in its data, among them, the lack of a comprehensive, campus-wide climate survey, as well as deeper levels of employment equity data analysis to aid the institution in tracking equity and inclusion. These gaps will be addressed as implementation moves forward.
-Key initiatives
-To support the community and to enable the plan, several key initiatives have been identified and will be funded:
-• TheOfficeoftheVice-PresidentEquity,Peopleand Culture will work with key offices to incorporate awards into our existing programs that recognize outstanding accomplishments of community members that enhance equity and contribute to a diverse and inclusive campus environment. All DEDI-related awards will solicit nominations from a broad pool of prospects and will be widely publicized.
-• TheOfficeoftheVPEPCwillestablishaDEDIInnovation Fund for activities not otherwise funded by other comple- mentary funds (e.g., the Academic Innovation Fund, Sustainability Innovation Fund and relevant research funds).
-University community members will be eligible to apply for one-time grants.
-• Withthisplanbeingwritten,thePresident’sAdvisory Council will have fulfilled its mandate. The University will dissolve the council and the existing President’s Advisory Committee on Human Rights and its three sub-committees and create a new advisory council on DEDI. This group will provide guidance on matters related to DEDI, which may include accountabilities, initiatives, accountability systems and more.
-Taking action, making impact:
-We call on faculties, divisions, units, departments, and individual York community members (including students) to identify and implement actions to:
-• Adoptpoliciesandproceduresthatsetaccountabilityand responsibility towards implementing, monitoring, tracking the progress of and reporting about DEDI-based initiatives, which may include a local DEDI committee or a DEDI committee of council.
-• Consider including DEDI principles as important budget and resource planning considerations.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 27
+Artists in Community “Residence”
+Audience: Professional/ New or emerging
+Artists in Community – Artist on-site working on a time-limited project; creating different pieces of work for BCC. The general public is invited to presentations or performances.
+Learn More
 
- CONCLUSION
-York University is proud of its commitment to decolonizing, equity, diversity and inclusion and its long-standing historical commitment to social justice. York envisions that this strategy will continue to advance DEDI and will contribute to:
-• Communitymembersincludingstaff,students,facultyand instructors, feeling a greater sense of safety, inclusion and belonging
-• Decision-makingthatisreflectiveofadiversityofvoices represented in leadership and at decision-making tables
-• Enhancedstudentexperiencesintheirclassroomsaswell as in co-curricular and extracurricular activities at the University more broadly
-• Communitymembersfeelingempoweredtoachievetheir best, however they define excellence in achievement
-• Equity-deservingindividualshavingopportunitiesto progress in their academics and careers
-• Acommunityempoweredtohavedifficultyetrespectful conversations, with a greater understanding of the importance of decolonizing, equity, diversity and inclusion.
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 28
+Anti-Black Racism / Corporate and Commuity Cultural Engagement
+Audience: Corporate Training
+Corporate and Community Cultural Engagement – Group sessions offered to corporations to learn about and experience African and Caribbean history and culture. Fee charged.
+Learn More
 
- GLOSSARY
-[2SLGBTQIA+] is an umbrella term used to denote people of various sexual orientations and gender identities. The letters stand for two spirit, lesbian, gay, bisexual, trans/transgender, queer/questioning, intersexual and asexual. “The placement of two spirit (2S) first is to recognize that Indigenous people [sic] are the first peoples of this land, and their understanding of gender and sexuality precedes colonization. The ‘+’ is for all the new and growing ways we become aware of sexual orientations and gender diversity.” (Adapted from Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Contextandusage:Ratesofrepresentationofthe 2SLGBTQIA+ community at York are collected through self-identification data for employees.
-• SeealsoGenderIdentityandExpressionandSexual Orientation.
-[Ableism] may be defined as a belief system, analogous to racism, sexism, or ageism, that sees persons with disabilities as being less worthy of respect and consideration, less able
-to contribute and participate, or of less inherent value than others. Ableism may be conscious or unconscious, and may be embedded in institutions, systems or the broader culture of a society. It can limit the opportunities of persons with disabili- ties and reduce their inclusion in the life of their communities. (Source: Policy on Ableism and Discrimination Based on Disability, Ontario Human Rights Commission, June 27, 2016)
-• Contextandusage:TheUniversityseeksto
-counter ableism, partly through its Accessibility & Accommodation/Disability Policies, Procedures and Resources.
-• SeealsoAccessibilityandDisability.
-[Accessibility] refers to the degree to which physical, pedagogical and administrative structures are (re)designed
-to enable the full, meaningful and equitable engagement
-of all community members (as defined in this document). Accessibility is also the degree to which persons with disabil- ities can access a device, service or environment without barriers. Accessibility is also a process: it is the proactive identification, removal and prevention of barriers to persons with disabilities. (From the Glossary on Accessible Customer Service eLearning by the Council of Ontario Universities) Accessibility includes, but is much broader than, physical access to buildings. It also includes, for example, designing for physical, financial, sensory, social, and language-level access. (York University DEDI Strategy)
-• Context and usage: The University’s policy on accessibility observes the standards laid down by the Accessibility For Ontarians With Disabilities Act (AODA).
-• SeeYorkUniversity’sAODACompliance.
-[Ageism] is often a cause for individual acts of age discrim- ination and also discrimination that is more systemic in nature, such as in the design and implementation of services, programs and facilities. Age discrimination involves treating persons in an unequal fashion due to age that is contrary to human rights law. (Source: Fact sheet, Ontario Human Rights Commission)
-• Contextandusage:ThedefinitionofageundertheYork University Human Rights policy adopts the Ontario Human Rights Code definition.
-[Anti-racism] refers to taking proactive steps to fight racial inequity. It differs from other approaches that may focus on multiculturalism or diversity, because it acknowledges that systemic racism exists and actively confronts the unequal power dynamic between groups and the structures that sustain it.
-• Contextandusage:SeealsoRaceandRacism.
-[Belonging] describes values and practices where no person is left out of our circle of concern. Belonging means more
-than having just access; it means having a meaningful voice and the opportunity to participate in the design of political, social, and cultural structures. Belonging includes the right to both contribute and make demands upon society and political institutions. (Source: the Othering and Belonging Institute, UC Berkeley)
-• Context and usage: “York University will work towards creating a more inclusive and equitable community where everyone feels a sense of belonging and that they are respected.” (York University DEDI Strategy).
-• SeealsoInclusion.
-[Classism] is a prejudice against or in favour of people belonging to a particular social class, resulting in differential treatment. (From the Canadian Race Relations Foundation)
-• Contextandusage:Whilesocialclassoreconomic background is not a code ground under the Ontario Human Rights Code, receipt of public assistance (in housing) is. The EDI strategy also mentions the context of accessibility, including “financial accessibility”: Accessibility includes, but is much broader than, physical access to buildings. It also includes, for example, designing for physical, financial, sensory, social, and language-level access. (York University DEDI Strategy)
-[Colonialism] is an intentional process by which a political power from one territory exerts control over a different territory. It involves unequal power relations power relations policies and/or practices of acquiring of acquiring full or partial political control over other people or territory, occupying the
-                 Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 29
+Dinner With…
+Audience: Professionals
+“Dinner With . . .” Series – provides participants the opportunity to share dinner and conversation with trailblazers and game-changers. Thirty guests have the opportunity to engage, initiate, learn and share information on various topics. Fee charged.
+Learn More
 
-territory with settlers, and exploiting it economically. (Source:
-Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Context and usage: The University Academic Plan, The Indigenous Framework for York University and York’s Framework on Black Inclusion all refer to understanding the impact of colonization and an active process of decolonizing curriculum in order to pursue inclusive excellence and advance equity.
-[Creed] In the Ontario Human Rights Code and York’s Human Rights Policy and Procedures, rights pertaining to religion and spirituality are referred to as “creed,” which consists of reli- gious beliefs and practices. It may also include non-religious belief systems that, as with religion, substantially influence a person’s identity, worldview and way of life. (Adapted from the Ontario Human Rights Commission)
-• Context and usage: Creed is a prohibited ground for discrimination under York’s Human Rights Policy. See also the policy on Academic Accommodation for Students’ Religious Observances for more information on the University’s commitment to respecting the religious beliefs and practices of all members of the community, and making reasonable and appropriate accommodations to adherents for observances of days of religious significance.
-[Decolonizing] is a foundational principle of York’s Decolonizing, Equity, Diversity and Inclusion Strategy. Decolonizing refers to the processes of deconstructing colonial systems, institutions, logic and practice to transform social and political relations with Indigenous Peoples. It is a collec- tive approach that centres and values Indigenous knowledges in service of the reestablishment of Indigenous sovereignty and the repatriation of Indigenous land and ways of life.
-• Contextandusage:Yorkiscommittedtorecognizing and redressing how academic institutions perpetuate colonialism.
-• See entry for Colonialism
-[Disability] should be interpreted in broad terms. It includes both present and past conditions. Disabilities shall be defined as those conditions so designated under the Ontario Human Rights Code. Disabilities may be visible or nonvisible (sometimes referred to as invisible or hidden). Visible disabil- ities are disabilities that are easily observed or recognized. For example, persons who are blind and use guide dogs or persons with mobility disabilities who use wheelchairs have visible disabilities. Nonvisible disabilities, on the other hand, are disabilities that are not readily apparent. Persons with learning disabilities or mental health disabilities, persons with medical conditions such as diabetes, and many persons with
-hearing loss have nonvisible disabilities. Likewise, disabilities may be temporary or permanent. (Source: Faculty Resource Guide on Teaching Students with Disabilities, 2020)
-• Context and usage: For more information, see the York Policy on Academic Accommodation for Students
-with Disabilities, the York Policy on Accommodation in Employment for Persons with Disabilities, and the Faculty Resource Guide.
-[Discrimination] Any form of unequal treatment based on
-an Ontario Human Rights Code ground, whether imposing extra burdens or denying benefits. Discrimination may be intentional or unintentional. It may involve direct actions
-that are discriminatory on their face, or it may involve rules, practices or procedures that appear neutral but disadvantage certain groups. Discrimination may take obvious forms, or it may happen in very subtle ways. Even if there are many factors affecting a decision or action, if discrimination is one factor, that is a violation of this policy. (From: A policy primer guide for developing human rights policies and procedures, Ontario Human Rights Commission)
-• Contextandusage:Theuniversity’sHumanRightsPolicy adopts the definition and interpretation of discrimination under the Ontario Human Rights Code.
-[Diversity] is a foundational principle of York’s DEDI strategy. It refers to the presence of difference and variety of personal experiences, values and worldviews that arise from difference of culture and circumstance. Such differences include race, ethnicity, sexual orientation, gender identity and expression, disability, age, class, religion and spirituality, geographic and international affiliations and more.
-• Context and usage: Diversity and Inclusivity are among the five core values of the university. The university supports and encourages diversity through the identi- fication and removal of barriers and biases, and the creation of workplaces and learning environments that are free of harassment and discrimination. (York University DEDI Strategy)
-• Whenusingtheword“diverse,”itshouldonlybeapplied to an entire collective (e.g. “the entire student body is diverse”) and not for a subset of a collective, nor as a euphemism for historically, persistently or systemically marginalized people (e.g. “diverse students were less likely to feel sense of belonging”). The latter usage assumes that the other part of the collective is “not diverse,” which is rarely accurate and can imply that certain identities or aspects of diversity are fundamentally different from the rest of the group. (Adapted from SAGE Reference Encyclopedia of Diversity in Education)
-• See also Ways of knowing.
-                         Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 30
+Discourse and Desserts
+Audience: Adults
+Discourse and Desserts – offers stimulating dialogues on the diverse ways practitioners identify and redefine solutions that benefit people who are marginalized. Using the Each One Teach One approach, you will interact, learn and engage with other educators, activists, and students about the contemporary ways they challenge society’s status quo and make meaningful contributions to social justice.
+Learn More
 
-[DEDI] An abbreviation for “decolonizing (or decolonization), equity, diversity and inclusion.” The term “decolonizing” added before “EDI” highlights the importance of approaching EDI through a critical perspective that frames the work within
-an anti-oppression and anti-colonial framework. The terms equity, diversity and inclusion are often grouped together to describe efforts to create more supportive, representative and equitable environments. Equity, diversity and inclusion are three distinct values that support and uphold each other. In presenting all together, DEDI also addresses some of the limitations of previously using terms like “diversity,” “equality” or “multiculturalism” on their own.
-• SeeseparateentriesforDecolonizing,Equity,Diversity, and Inclusion.
-[Employment equity] is an ongoing planning process used by an employer to:
-• Identifyandeliminatebarriersinemploymentprocedures and policies.
-• Putintoplacepositivepoliciesandpracticestoeliminate systemic barriers.
-• Ensureappropriaterepresentationoffourfederally designated groups throughout all occupations and at all levels within the organization. In Canadian employment equity legislation, disadvantaged groups have been defined as Indigenous people, women, people with disabilities,
-and racialized people. York as an institution recognizes these four categories as well as the umbrella category of 2SLGBTQIA+ people.
-• Fosteraclimateofequityandattracttalenttothe organization.
-(Adapted from Employment Equity and York Self ID)
-• Contextandusage:YorkUniversityiscommittedto Employment Equity and monitors the representation of the above designated groups. See the Annual Employment Equity Report for more information.
-[Equity] is a foundational principle of York’s DEDI strategy. Equity refers to the fair treatment, access, opportunity and advancement for students, faculty, instructors, and staff at every stage of educational and career development. Taking equity as a guiding principle means that the University will respect and value the differences of our members by actively identifying and removing barriers, including structural barriers, to ensure that historically excluded groups have the same opportunity to fully flourish at York University. (York University DEDI Strategy)
-• Contextandusage:Intheuniversitycontext,equity requires the creation of opportunities for historically, persistently, or systemically marginalized populations
-of students, staff, instructors, and faculty to have equal access to education, programs, and growth opportunities
-that are capable of closing achievement gaps. This requires recognizing that there are existing inequities;
-not everyone is starting from the same place or history, and that deliberate measures to remove barriers to opportunities may be needed to ensure fair processes and outcomes. (Source: Equity & Inclusion Glossary of Terms, University of British Columbia)
-[Equity-deserving groups] are communities that experience significant collective barriers in participating in society. This could include attitudinal, historic, social and environmental barriers based on age, ethnicity, disability, economic status, gender, religion, nationality, race, sexual orientation and transgender status etc. Equity-deserving groups are those that face discrimination or barriers to equal access, opportunities and resources and actively seek social justice and reparation. (Source: Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Contextandusage:Yorkhasoptedtousetheterm “equity-deserving” rather than “equity-seeking.”
-• SeealsoUnderrepresentedPopulationsandHistorically Excluded Groups.
-[Gender identity] is a person’s internal and individual experience of gender. It is a person’s sense of being a woman, a man, both, neither or anywhere along the gender spectrum. Gender identity does not corelate with a person’s assigned sex or to their sexual orientation. A person’s gender identity may change over time. A person’s current gender may differ from the sex a person was assigned at birth and may differ from what is indicated on current legal documents. Examples of gender identities include: woman, man, cisgender (including cisgender man or woman), transgender, nonbinary, gender nonconforming. (Adapted from: York’s Safer Spaces Toolkit and Statistics Canada)
-• Transgender:Apersonwhosegenderidentitydiffers
-from the sex they were assigned at birth may identify as transgender, for example. It can be used as an umbrella term to refer to a range of gender identities and experiences.
-• Cisgender: A person whose gender identity aligns with the sex they were assigned at birth.
-• Non-binary:Apersonwhoself-identifiesasnon-binary may have a gender identity in between or beyond “man” or “woman” or have no gender, either permanently or for some of the time. Non-binary gender identity is understood as broader, less defined and potentially more fluid. (benjamin lee hicks, The Unicorn Glossary, 2018)
-• Contextandusage:Genderidentityisalsoaprotected ground under the Ontario Human Rights Code and the York University Human Rights Policy.
-• See also Gender expression and 2SLGBTQIA+
-             Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 31
+Emancipation Day Underground Freedom Train Ride
+Audience: Everybody
+The Emancipation Day “Underground Freedom Train” Ride is symbolic of the role of the Underground Railroad within Canada’s history. This train ride is a recognition of the historic date of Emancipation Day on August 1st when slavery was abolished in the British Empire. BCC partners with the Toronto Transit Commission (TTC) and the train route travels along the TTC subway from Union Station to Sheppard West Station. This annual event is open to the public and may include poetry readings, musical entertainment, networking, and special activities.
+Learn More
 
-[Gender expression] refers to how a person publicly or outwardly expresses or presents their gender identity. This can include physical expressions, such as outward appearance, and can be presented through hair, make-up, dress, voice and body language, or behaviour. A person’s chosen name and pronouns are also common ways of expressing gender. In different ways and at different times, people can change how they express their gender identity.
-• Context and usage: In addition to the ways in which individuals choose to express their gender, the way other people perceive someone’s gender expression, can
-also significantly impact a person’s experience. Gender expression was added to the Ontario Human Rights Code as a code ground to protect against discrimination.
-• Gender expression is also a protected ground under the Ontario Human Rights Code and the York University Human Rights Policy. See also Gender Identity and Gender Expression: A Guide for Students, Faculty and Staff.
-[Harassment] is defined as “engaging in a course of vexatious comment or conduct that is known or ought reasonably to be known to be unwelcome.” (From the Ontario Human Rights Commission)
-• Contextandusage:AtYork,harassmentisdefinedin accordance with relevant policy, code, regulation, or collective agreement applicable to the person(s) or incident(s) at issue. The definition of harassment from the Ontario Human Rights Code, as amended, also applies to community members in respect of services, housing, and employment.
-• For more information, consult York’s policies related to healthy workplace. Resources at York include the Centre for Human Rights, Equity and Inclusion for human rights code based concerns, the Centre for Sexual Violence for issues pertaining to sexual harassment and the Office of Student Community Relations (OSCR) for students.
-[Historically/structurally/systemically excluded individuals and groups] refers to those people or groups who have
-been excluded or disenfranchised throughout history, and whose legacy includes day-to-day barriers that contributed
-to past, and perpetuate current, inequities which compound over time. In Canadian employment equity legislation, these disadvantaged groups have been defined as Indigenous people, women, people with disabilities, and racialized people. York as an institution also recognizes these four categories
-as well as the umbrella category of 2SLGBTQIA+ people as historically underserved and/or excluded. Systems, policies, practices, culture, behaviours, and beliefs continue to maintain these barriers. It is often not an individual intentional, but rather a systematic, effort to discriminate. It is an unconscious, unrecognized practice of doing things as they have always been done (and recreating the historical exclusions). At times,
-the term “underserved” is also used to specifically describe the lack of services or accessibility of services for, or acknowl- edgement of, historically excluded groups. (Source: Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Contextandusage:YorkUniversityacknowledgesthat there are historically underserved and underrepresented populations. We recognize that policies, practices, informal processes and language created by and for particular groups of people, with a default norm in mind, produce structural barriers that limit access and inclusion for other individuals and groups.
-• SeealsoUnderrepresentedPopulationsandEmployment Equity.
-[Homophobia] is the fear, hatred, discomfort with or mistrust of people who are lesbian, gay, or bisexual and/or who express themselves in ways that challenge traditional gender roles. Homophobia may stem from a fear of associating with people from the 2SLGBTQIA+ community and/or of being perceived as gay, lesbian or bisexual themselves. (Source: Planned Parenthood; benjamin lee hicks, The Unicorn Glossary, 2018)
-[Human rights] are a universal entitlement that all people should have access to freedom, justice and protection from discrimination and harassment, and that people should have equal access to a climate that preserves the dignity and worth of individuals and groups. In Ontario, the Human Rights Code prohibits actions that discriminate against people based on
-a protected ground (age, ancestry, colour, race, citizenship, ethnic origin, creed, disability, family status, marital status, gender identity, gender expression, receipt of public assis- tance, record of offences, sex, and sexual orientation), in a protected social area (accommodation/housing, contracts, employment, goods, services, and facilities, membership in unions, trade, or professional associations).
-• Contextandusage:EverymemberoftheYorkcommunity is protected by York’s Human Rights Policy and Procedures. You can reach out to a Case Resolution Officer at the Centre for Human Rights, Equity and Inclusion if you have any questions, concerns, or need assistance relating to matters impacting your human rights. For definitions of the Code grounds listed in the definition above, please see York’s Human Rights Policy and Procedures.
-[Inclusion] is a foundational principle of York’s Equity, Diversity and Inclusion Strategy. It refers to enabling all individuals on our campuses to fully enjoy the opportunities the University has to offer, and ensure people feel a sense of belonging. It means valuing and cultivating full and meaningful engagement of historically and structurally excluded individ- uals and groups in a healthy and affirming climate.
-• Context and usage: The York University Academic Plan, the Policy on Academic Accommodation for Students
-                              Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 32
+Entrepreneurship – Pop-Up Experience
+Audience: 15+
+Entrepreneurship – Pop-Up Experience helps to guide entrepreneurs from the idea/concept to the showcasing and sale of their products. This experience offers entrepreneurs and/or designers an opportunity to learn about customer service, merchandising, branding, marketing, on-line services, and selling. Includes the opportunity to display wares through a marketplace monthly during the 12-week program.
+Learn More
 
-with Disabilities, and the Framework on Black Inclusion affirm the importance of inclusion and inclusive design.
-• SeealsoBelonging.
-[Indigenous] The term “Indigenous” encompasses First Nations, Métis and Inuit Peoples, either collectively or sepa- rately, and is a preferred term in international usage, e.g. the “U.N. Declaration on the Rights of Indigenous Peoples.” In its derivation from international movements, it is associated more with activism than government policy and so has emerged, for many, as the preferred term.
-• Context and usage: For more information, see the Indigenous Framework for York University.
-• SeealsoIndigeneity
-[Indigeneity] refers to the inherent rights and entitlements of
-Indigenous Peoples.
-• Contextandusage:Formoreinformation,seethe
-Indigenous Framework for York University.
-[Intersectionality] is a foundational principle of York’s DEDI Strategy. This term describes the interconnected nature of social categorizations such as race, class, disability, sexual orientation and gender identity as they apply to a given individual or group. Intersectional identities create overlapping and interdependent systems of discrimination or disadvan- tage. (Adapted from the Oxford Dictionary Online).
-• Context and usage: The term was coined by lawyer, civil rights advocate, and critical race theory scholar Kimberlé Crenshaw to describe the “various ways in which race and gender intersect in shaping structural and political aspects of violence against women of color.” (Crenshaw, Kimberlé. Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color. Stanford Law Review, Vol. 43, No. 6 (July 1991), pp. 1241-1299)
-• Applying an intersectional approach is an effective practice in many fields (e.g. equity work, research, and human rights complaints on multiple grounds) because it addresses the many barriers and disadvantages that individuals may face.
-[Marginalization] is a social process by which individuals or groups are (intentionally or unintentionally) distanced from access to power and resources and constructed as insignifi- cant, peripheral, or less valuable/privileged to a community or “mainstream” society. (Source: Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Contextandusage:“Yorkintendstoeducateand empower all members of the community to think critically about systems of marginalization and oppression. This includes a deeper understanding of privilege and the need
-for everyone in the community.” (York University DEDI Strategy)
-• Formoreinformationontheconnectionbetweenmargin- alization and race see Addressing Anti-Black Racism: A Framework on Black Inclusion.
-• SeealsoOppression.
-[Oppression] The obvious and subtle ways dominant groups unjustly maintain status, privilege and power over others, using physical, psychological, social, or economic threats
-or force. Oppression is often systemic and can manifest in a variety of ways, including but not limited to, racism, sexism, homophobia, ableism, transphobia, and classism. Oppression often manifests in non-uniform ways, for example, oppression against women may manifest differently for different social groups in obvious and covert ways, and different forms of oppression can intersect. (Adapted from The 519’s Glossary of Terms and The Canadian Race Relations Foundation, Glossary of Terms).
-• Context and usage: The Centre for Sexual Violence’s Building Safer Spaces Toolkit states that “recognizing oppression is important in creating a safer space [...] where we all act with care and compassion to those around us.”
-• SeealsoMarginalization,Privilege,andIntersectionality.
-[Patriarchy] The norms, values, beliefs, structures and systems that grant power, privilege and superiority to men, and thereby marginalize and subordinate others who are not men. (Adapted from The Canadian Race Relations Foundation, Glossary of Terms). This type of power is socially constructed as opposed to anything biological or innate. (Kate Millett, Sexual Politics, 1970)
-[Persons with disabilities] Persons living with one or more temporary, long-term, or recurring disabilities.
-• Contextandusage:TheYorkDEDIStrategyusestheterm person or people with disabilities, while understanding that not all people who live with a disability choose to use this term nor does this collective capture the nuances of disability across a broad spectrum of lived experiences.
-• Formoreinformation,seeYorkPolicyonAcademic Accommodation for Students with Disabilities, York Policy on Accommodation in Employment for Persons with Disabilities, and the Faculty Resource Guide.
-• See also Disability.
-[Privilege] refers to unearned power, benefits, advantages, access and/or opportunities that exist for members of the dominant group(s) in society such as men, white people, wealthy people and able-bodied and neurotypical people.
-                              Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 33
+ICanLaunch
+Audience: Students, professionals
+The ICanLaunch Stream is a career development stream focused on elevating individuals within their desired professional stream. Events and activities include: career fairs and student placement, networking events, mentorship, professional development sessions.
+Learn More
 
-Can also refer to the relative privilege of one group compared to another. (Adapted from the Ontario Human Rights Commission Glossary of Human Rights Terms)
-• Contextandusage:“Yorkintendstoeducateand empower all members of the community to think critically about systems of marginalization and oppression This includes a deeper understanding of privilege and the need for everyone in the community to work toward equity and fairness.” (York University DEDI Strategy) This is echoed in the Anti-Black Racism Framework, where it is acknowledged that a strong, accountable and action- oriented way forward is required to dismantle the deeply ingrained structures of power and privilege that allow anti-Black racism to thrive.
-[Racism] is a form of discrimination that is defined as any individual action or institutional practice that treats people differently because of their colour or ethnicity. (Adapted from Understanding Racism: A Guide for Students, Faculty and Staff) In some cases, people don’t even realize they have these beliefs. Instead, they are assumptions that have evolved over time and have become part of systems and institutions. (Adapted from the Glossary of Human Rights Terms, Ontario Human Rights Commission). Race is also one of the protected grounds under the Ontario Human Rights Code.
-• Contextandusage:“[York]understand[s]andacceptthat racism and white supremacy have been part of academia since its inception. As a result, Black, Indigenous, and other racialized peoples have suffered in innumerable ways. We are sorry for the harm that Black students, faculty, instructors, staff, and community members have experienced. York University is committed to addressing systemic racism and will take steps to create change.” (From the Addressing Anti-Black Racism Framework)
-• AspecificformofracismisAnti-Blackracism,whichis pervasive and entrenched in Canadian society. Anti-Black racism is defined as “prejudice, attitudes, beliefs, stereo- typing and/or discrimination that is directed at people of African descent and is rooted in their unique history and experience of enslavement and colonization.” Anti-Black racism is embedded in all institutions and York University is not immune to this fact. As a site of knowledge creation and dissemination, it is essential that York challenge
-and discontinue the reproduction and reinforcement of anti-Black racism. (Adapted from the Addressing Anti-Black Racism Framework)
-• SeealsoDiscrimination.
-[Racialized] is derived from the term “racialization” coined by Omi and Winant. Using the term “racialized” rather than such terms as “visible minority” is one way of recognizing the problematic implications of using umbrella terms or individual racial or ethnic categories – such as Black, Asian, Latinx or Arab – with no clear context. One concern, if not the
-key concern in doing so, is unintentionally (if not uncritically) participating in further “naturalizing” these racial categories. In this sense, using “racialized” as a descriptive term draws attention to the social construct of “race” and counters the assumption that ideas about race (or the effects of racism) are “natural” or biological. As Omi and Winant describe, racializa- tion is a process of signifying the extension of racial meaning to a previously racially unclassified relationship, social
-practice or group. They note that racialization is an ideological historically specific process. Racial ideology is constructed from pre-existing conceptual or discursive elements and emerges from the struggles of competing political projects and ideas seeking to articulate similar elements differently. (Omi and Winant, Racial Formation in the United States from the 1960s to the 1980s, 1986) Additionally, using such terms as “minority” does not account for historical exclusion or power dynamics; nor does it accurately depict demographic changes.
-• Context and usage: York uses the term “racialized” in documents such as the Employment Equity survey to describe people of colour who previously were called “visible minorities.”
-[Reconciliation] refers to a process of building and sustaining respectful, ethical relationships between Indigenous Peoples and the rest of Canada based on mutual understanding and respect. It embraces new projects and processes arising
-out of our response to, but not limited by, the Truth and Reconciliation Calls to Action. (Adapted from York’s DEDI Strategy)
-• Context and usage: The Indigenous Council has emphasized the concept of reconciliation as core to the Indigenous Framework for York University.
-• SeealsoTruthandReconciliationCommissionCallsto Action.
-[Religion and Spirituality/Religious beliefs] See Creed.
-[Sexism] is prejudice or discrimination based on sex and gender identity; behaviours, conditions or attitudes that foster stereotypes of social roles based on gender identity. In a patriarchal system, sexism is most commonly directed toward women or people read-as female. Sexism may be conscious or unconscious, and may be embedded in institutions, systems or the broader culture of a society. (Adapted from the Canadian Race Relations Foundation and benjamin lee hicks, The Unicorn Glossary, 2018)
-• Contextandusage:Formoreinformation,seeYork’s Human Rights Policy and Procedures.
-• SeealsoDiscriminationandGenderIdentityandGender Expression.
-                    Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 34
+People’s TV
+Audience: Adults
+The People’s TV provides an opportunity to document content from other BCC programs, and to maintain our past and living history and culture in a structured archive that is available online.
+Learn More
 
-[Sexual orientation] refers to a person’s internal sense of their sexual identity or self-identification as bisexual, straight, gay, pansexual, queer etc. (Adapted from Merriam Webster dictionary) It is also a protected ground under the Ontario Human Rights Code. Sexual orientation or sexual identity is distinct from gender identity.
-• Context and usage: See York’s Annual Employment Equity Statistical Report and York’s Human Rights Policy and Procedures.
-• Seealso2SLGBTQIA+.
-[Social diversity/socially diverse] See Diversity.
-[Social justice] refers to creating a fair and equal society in which each individual matters, their rights are recognized and protected, and decisions are made in ways that are fair and honest. (Adapted from the Oxford Dictionary) When arbitrary distinctions are made between individuals and groups in the assigning of basic rights, responsibilities, and opportunities, conditions of social justice are greatly diminished; when all members of society are given equal freedom to pursue their desired ends, social justice can potentially flourish. (From The SAGE Encyclopedia of Qualitative Research Methods)
-• Contextandusage:York’scommitmenttosocialjustice is stated in the York University Academic Plan and the Framework on Black Inclusion.
-[Transphobia] can include negative attitudes, feelings, fear, hatred of or aversion to trans people and communities. Transphobia is rooted in systems of oppression such as sexism, heteronormativity and patriarchy. Often transphobic behaviour is based on stereotypes, misconceptions or hate that are used to justify discrimination, harassment and violence toward trans people. (Adapted from: York University’s Safer Spaces Toolkit) Gender identity and gender expression are also protected grounds according to the Ontario Human Rights Commission, which states that: “Organizations should learn about the needs of trans people, look for barriers, develop or change policies and procedures and undertake training. This will help make sure trans people and other gender non-conforming individuals are treated with dignity and respect and enjoy equal rights and freedom from discrimination.” (Policy on Preventing Discrimination Because of Gender Identity and Gender Expression)
-• Contextandusage:Formoreinformation,seeYork’s Human Rights Policy and Procedures.
-[Truth and Reconciliation (TRC) Calls to Action] The Truth and Reconciliation Commission (TRC) provided those directly or indirectly affected by the legacy of the Indian Residential Schools system with an opportunity to share their stories and experiences. The TRC spent six years travelling to all parts of Canada and heard from more than 6,500 witnesses. At the closing event in 2015, the TRC released its Executive
-Summary, which included its findings and 94 Calls to Action aimed at redressing the legacy of residential schools and advancing the process of reconciliation in Canada. (Adapted from Truth and Reconciliation Commission of Canada)
-• Contextandusage:TheIndigenousFrameworkforYork University embraces reconciliation through projects and processes arising out of response to, but not limited by, the Truth and Reconciliation Calls to Action.
-• SeealsoReconciliation.
-[Underrepresented populations] are individuals or groups with insufficient or inadequate representation in various aspects of university life, often determined when compared to their proportional composition in Canadian society, but in the university setting other considerations may also override strictly proportional representation. Within the context of the university, they are also known as underserved populations. (Adapted from the Equity & Inclusion Glossary of Terms, University of British Columbia)
-• Contextandusage:York’sDEDIStrategyacknowledges that there are historically underserved and underrep- resented populations in the university community. It recognizes that policies, practices, informal processes, and language created by and for particular groups of people, with a default norm in mind, produce structural barriers that limit access and inclusion for other individuals and groups. (York University DEDI Strategy)
-• SeealsoEquity-DeservingGroupsandHistorically Excluded Groups.
-[Unconscious bias] Unconscious (or implicit, hidden) biases are mental processes or internalized schemas that operate outside of our consciousness, intentional awareness, or control. Unconscious biases include (but are not limited to):
-• Affinity bias: The tendency to show favour and/or feel more kinship toward people who are more like us. It may be based on some aspect of identity that we share with that person, or it could be similar interests and backgrounds.
-• Attributionbias:Howpeopleexplainthebehaviouror outcomes for themselves or others. For example, attributing a person’s success to their natural abilities, versus seeing that success as the result of luck or favoritism.
-• Confirmationbias:Thetendencytomoreeasilyaccept, search for, interpret or favour information that aligns or agrees with one’s existing beliefs and opinions.
-• Performance bias: An assessment of people’s competence based on some aspect of their appearance or identity. (Adapted from the Equity & Inclusion Glossary of Terms, University of British Columbia, the SAGE Encyclopedia of Qualitative Research Methods and Unconscious Bias: What Is Yours?)
-                          Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 35
+Schulich Business Certification
+Audience: Students, Adults
+This complimentary 8-week Introduction to business course is delivered in conjunction with the Schulich School of Business targeted for the community with a resulting business certificate at the end of each cohort.
+Learn More
 
-• Contextandusage:AspartofYorkUniversity’s commitments to equity and greater inclusion, it has mandated training on unconscious bias for certain hiring committees.
-• SeeYork’sCanadaResearchChairsEDIProgram,andthe Centre for Human Rights, Equity and Inclusion’s Respect, Equity, Diversity and Inclusion (REDI) Workshop Series.
-[Ways of knowing] Broadly, the term pertains to epistemology or the theory of knowledge: how we know, what we know. However, the term “ways of knowing” has a distinctly critical, feminist and anti-colonial connotation. It emerges from various critical traditions that have challenged dominant and privileged ways of knowing. Critical perspectives are informed by the insight that knowledge of any object is conditioned by the social and historical perspective of the knower and is also impacted by relationships of power. (Adapted from Anderson, Feminist Epistemology: An Interpretation and a Defense, 1995)
-• Contextandusage:Theembraceofdiversityinwaysof knowing as a core value of York University pertains to
-the promotion of cross-cultural and global openness and understanding. In this sense, diversity also encompasses difference or variety in education, perspectives, opinions, heuristics, disciplines, faculties, skills, and learning opportunities.
-• RespectforIndigenousapproachestoknowledgeand learning is included as a key principle in the Indigenous Framework for York University: A Guide to Action.
-[White supremacy] stems from the belief, conscious or unconscious, that white people are superior and should there- fore dominate all other racialized groups. It is an ideology that assumes the inherent importance of white people, realities and knowledge. “This notion of race emerged in the context
-of European imperial domination of nations and peoples deemed “non-white” and was used to establish a classification of peoples. There is no legitimate scientific basis for racial classification. It is now recognized that notions of race are primarily centered on social processes that seek to construct differences among groups with the effect of marginalizing some in society.” (As explained in York University’s Addressing Anti-Black Racism: A Framework on Black Inclusion, from OHRC Policy Guidelines, 2009, p.11. ohrc.on.ca Ontario Human Rights Commission)
-• Contextandusage:Whitesupremacyisframedbroadly in order to push back against the narrow and popular definition of the term which only equates it with specific types of racist violence enacted by fringe groups
-and therefore an exception to a generally “non-racist majority.” The broad definition is intended to include both conscious and unconscious ideas of white superiority. It also considers those actively and passively benefitting from systemic racism as directly implicated in maintaining
-whitesupremacistinstitutions.(Gilhorn,WhatIsWhite Supremacy?, 2022)
-• SeealsoRacismandAnti-racism.
-           Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 36
+Shake Up Your Life
+Audience: Adults, Seniors
+Weekly program that welcomes older adults of African and Caribbean descent to meet, invoke memory, have fun and partake in various activities. Participants engage in ‘show and tell’, music film, dancing, networking, and storytelling..
+Learn More
 
- APPENDIX A: DISCUSSION ON LAND ACKNOWLEDGEMENTS
-WHY DO WE, AS SETTLERS, ACKNOWLEDGE THE LAND?
-Observing Indigenous protocols, including the land acknowledgement, honours Indigenous communities. It disrupts colonial practices and re-educates people about
-the relationships between Indigenous people and the land, as well as the relationships between settlers and the land. The Dish With One Spoon wampum belt covenant is a critical element that recognizes our shared responsibilities to the land and each other. Settlers in Tkaranto have an obligation to be aware of our relationship to the land we occupy, the treaties that have never been fully honoured, and to act in responsible relationship to the land. Indigenous sovereignty is linked to our collective liberation, and it is paramount that we act in solidarity with the resistance of Indigenous peoples and communities to Indigenize and decolonize institutions, particularly post-secondary institutions.
-It is imperative to acknowledge the many people of African descent, who are not settlers, but whose ancestors were forcibly displaced as part of the transatlantic slave trade, brought against their will, and made to work on these lands.
-UNDERSTANDING THE LAND ACKNOWLEDGEMENT
-Although the wording used in the York video Understanding the Land Acknowledgement is outdated, the content is important, and it remains timeless. The eight-minute video clearly explains the purpose of a land acknowledgement and why and how settlers hold the responsibility for decol- onization. As well, it outlines how settlers can deliver land acknowledgements with integrity and purpose.
-   Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 37
+The Black & Caribbean Book Affair
+Audience: Everyone
+The Black & Caribbean Book Affair present and animate the works of Black and Caribbean writers in Canada and the diaspora. This is a three-day festival held in the fall.
+Learn More
 
- APPENDIX B: PAC ON EDI STRUCTURE AND MEMBERSHIP
- Non- Academic Staff
-  President
-   EDI Steering Committee
-President’s Advisory Council on EDI
- The above diagram outlines the structure of the President’s Advisory Council on EDI. Additionally, two ad hoc committees were established to assist with revisions. The following is a comprehensive list of members across the lifespan of the council, including those who concluded their term prior to the conclusion of the work of the council.
-Chair
-Sheila Cote-Meek, VP Equity, People and Culture
-Steering Committee
-Annette Boodram Christal Chapman Enakshi Dua Beyhan Farhadi Vinitha Gengatharan Carl James
-Marian MacGregor Mayoori Malankov David Phipps Rebecca Pillai Ridell Randy Pitawanakwat Vanessa Thompson
-Appointed Members
-Annette Boodram (EDI Program Manager, subsequently Executive Director, Community Safety)
-Christal Chapman (EDI Program Manager) Sharon Henry (PACHR – RISE)
-Carl James (Sr. Advisor, Equity & Representation) Ruth Koleszar-Green (Indigenous Council)
-Marian MacGregor (Executive Director, Centre for Human Rights, Equity & Inclusion)
-Gin Marshall (PACHR – SexGen)
-Lori Mishibinijima (Indigenous Council) Roxanne Mykitiuk (PACHR – Enable York)
-Faculty Representatives
-Gerald Audette (Science)
-Sarah Barrett (Education)
-Rosanna Chowdhury (Environment & Urban Change)
-Louizandre Dauphin (Glendon)
-Andrea Davis (Liberal Arts & Professional Studies)
-Mazen Hamadeh (Health)
-Paulina Karwowska-Desaulniers (Lassonde School of Engineering)
-Joy Kirchner (Libraries)
-Brent Lyons (Schulich School of Business)
-Judith MacDonnell (Health)
-Aryn Martin (Graduate Studies)
-Hengameh Saberi (Osgoode Hall Law School)
-Sarah Bay-Cheng (Arts, Media, Performance & Design)
-Academic Staff
-Undergraduate Students
- Graduate Students + Post-Docs
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 38
+The Literary Salon
+Audience: Professionals
+The Literary Salon is a program for writers, journalists, illustrators, and authors to gather, create, co-create, collaborate and showcase works in progress and completed work. This regular event offers writers the opportunity to workshop their stories and network with publishers and other literary practitioners.
+Learn More
 
-Divisional Representatives
-Debbie Montanera-Bojda (Provost & Vice-President Academic) Vinitha Gengatharan (Students)
-David Phipps (Research & Innovation)
-Jayne Rop (Finance & Administration)
-Vanessa Thompson (President’s Office) Kairi Williams (Advancement)
-Undergraduate Students (appointed)
-Kien Azinwi Nathaniel Boateng Bo Joseph
-Riaz Nandan Stephen Teong
-Graduate Students (appointed)
-Zahra Brown
-Amarachi Chukwu
-Jake Okechukwu Effoduh
-Post-Doc Representative (appointed)
-Beyhan Farhadi
-Staff At-Large Representatives
-Habibah Haque Mayoori Malankov Amy Poon
-Faculty At-Large Representatives
-Simon Adam Enakshi Dua Uwafiokun Idemudia
-Technical Support Team
-Amy Gaukel Stella Kowalchuk Alicia Pinter
-Additional Support Staff
-Zhaleh Afshar Lisa Brown
-Dalia El Farra Miriam Greenblatt Keisha McIntosh Carolina Ruiz Simone Samuels Christine Sinclair Melissa Theodore
- Decolonizing, Equity, Diversity and Inclusion Strategy 2023-2028 | York University — 39
+Walk With Excellence
+Audience: Youth
+The Walk with Excellence event is an urban rite-of-passage of moving graduating high school students to post-secondary education. The Walk’s objective is to demonstrate student achievement and academic success. Similarly themed processions happen annually across the City of Toronto as well as in Ottawa, Ontario. These processions comprise students, school principals, teachers, family, and partners.
+Learn More
 
+Welcome to Blackhurst
+Audience: Everyone
+The Welcome to Blackhurst program engages and educates all Canadians – particularly students – to the rich legacy of the history-makers of Toronto’s Bathurst-Bloor and Annex neighbourhoods. It incorporates hands-on activities that readily connect participants to the local history of the surrounding community. Visitors have participated in walking tours of the neighborhood, coffee ceremonies, sing-a-longs with musicians, and listened to history lectures of this iconic neighbourhood.
+Learn More
+
+Windows to Opportunity
+Audience: Youth
+The Windows to Opportunity (WTO) is a 28-week program that supports the positive development of Black youth through mentorships with professional artists. The WTO program provides hands-on learning in five different fields of study: computer graphics/animation, dance, event planning, media arts, and stand-up comedy.
+Learn More
+
+Zanana Akande “Welcome to Blackhurst” Art Gallery
+Audience: Everyone
+The Zanana Akande “Welcome to Blackhurst” Art Gallery provides an opportunity for professional and new/emerging visual artists to showcase their work in a community-based setting.
+Learn More
+We want to give a huge shout out to our members and so many of you that participate in and support our programs, events and activities. Thank you.
+
+Support BCC
+Stay in the loop!
+Signup for our newsletter for the beat of black culture.
+
+Email
+Subscribe
+Blackhurst Cultural Centre
+The People’s Residence
+
+777-779 Bathurst Street
+
+Toronto, Canada
+
+M5S 0B7
+
+416.901.7720 | info@blackhurstcc.org
+
+
+Wall 5
+
+
+Copyright 2023 — Blackhurst Cultural Centre, created By Anthony Berot
+Scroll to Top
+
+Ron Fanfair
+Blackhurst Centre is destined to be a main cultural hub in Toronto
+May 2, 2022
+Blackhurst Centre is destined to be a main cultural hub in Toronto
+News
+May 2, 2022
+
+As a main cultural hub in the city sets to transition to an enhanced space, it was announced that it would bear a new name.
+
+A Different Booklist Cultural Centre – The People’s Residence has become The Blackhurst Cultural Centre (BCC).
+
+A non-profit centre and destination that provides opportunities to experience the culture and history of Canadians of African and Caribbean ancestry is located in the Bathurst St. and Bloor St. W. neighbourhood that has been home to many Black homeowners and businesses, including the defunct Contrast community newspaper, Mascoll Beauty Supply and a few barbershops.
+
+Six years ago, an exhibition – Welcome to Blackhurst – shone a light on the community’s history, using archival material and original artwork.
+
+
+Itah Sadu (Photo by Ron Fanfair)
+
+BCC Managing Director Itah Sadu coined the word ‘Blackhurst’.
+
+“In the world that we live in, what is the brand that you are going to create is the new identity that comes out of what came before and what you see going forward,” she said. “In a way, it seemed automatic to play on that word and create Blackhurst. There is the debate on whether we are Black Canadian or African Canadian. Now, we can reimagine Bathurst to be Blackhurst and when we think of that, we think immediately of people like Stanley Grizzle (Canada’s first Black Citizenship Court Judge), Bev Mascoll (entrepreneur) or the barbershops.
+
+“Blackhurst is a statement of the neighbourhood. It is where the ongoing everyday history of Black people is made. So when you come to Bathurst and Bloor, we can take you to Sam Richardson, the spirit of Deborah Brown, and the homes where Austin Clarke and Albert Jackson lived. We can take you to a neighbourhood memory which is very powerful. Then you can come into the centre and create your own legacy.”
+
+Richardson, who died in 1989, competed at the 1936 Berlin Olympics and resided at 222 Lippincott St., Brown – who passed away in 1898 at age 111 -- was a fugitive slave who lived at 691 Markham St., award-winning author Clarke, who died in 2016, was a Patrick McGregor Lane resident and Jackson, Canada’s first Black postman, resided at 213 Brunswick Ave. He died in 1918 and family members lived in the house until 1970.
+
+To coincide with the centre’s name change, a new book, ‘Welcome to Blackhurst: An Iconic Toronto Neighbourhood’, will be launched next week.
+
+“We have put together a document of people who are game changers and trailblazers here in this neighbourhood who have done exceptional things in Canada to change the lives not only of Black Canadians, but all Canadians,” said Sadu.
+
+In December 2020, the City of Toronto approved a 49-year long-term lease of 756 Bathurst St. As part of the rezoning with Westbank Corporation that purchased Mirvish Village in 2013, the property will be transferred to the City.
+
+University-Rosedale Councilor Mike Layton successfully moved the motion for the long-term lease negotiations for the new space.
+
+“This stretch of Bathurst is special and the new name is fitting, “he pointed out. 
+
+
+Mike Layton (Photo by Ron Fanfair)
+
+The centre relocated temporarily to 777-779 Bathurst St. in May 2017 after redevelopment of Mirvish Village started at the beginning of that year.
+
+A capital campaign initiative was launched two years later. So far, $3.3 million has been raised. The target is $10 million. 
+
+Sadu and her husband, Miguel San Vicente, assumed ownership of A Different Booklist 26 years ago from Critical Race Intersectional Theorist Dr. Wesley Crichlow.
+
+“Just imagine that out of an independent bookstore came this moment where an entity has given birth,” she said. “I think that is particularly exciting.”
+
+Separate from the bilingual centre, the bookstore, that was the recipient of the 2016 Premier’s Award for Excellence in the Arts, maintains its name.
+
+Construction of the new space starts this summer and the state-of-the-art centre is expected to be opened in late 2023.
+
+FacebookTwitterLinkedIn1 Like
+Related Posts
+A Different Booklist wins Ontario Premier’s Award
+January 16, 2017
+A Different Booklist wins Ontario Premier’s Award
+Former slave had strong ties to Toronto
+October 27, 2017
+Former slave had strong ties to Toronto
+Economic Club of Canada owner fulfills wish to host Barack Obama in Toronto
+January 22, 2020
+Economic Club of Canada owner fulfills wish to host Barack Obama in Toronto
+Home
+Audio by websitevoice.com
