@@ -1,0 +1,9 @@
+Helio is an engineer. He did his PnD in Computer Science in Japan and currently works at York University.
+
+Barry is our CFO. He has decades of experience leading finance across many industries, including telecommunications, mining and media.
+
+Lorne is a banker. He studied English and Political Science in his undergrad. His degreee is from Carleton University.
+
+Jean-Jacques is the CEO. He is a philospher of science. His PhD is from the University of Toronto.
+
+Lorne, Helio, Barry and Jean-Jacques are partners in DAKA AI Inc. The word 'daka' means 'I am' in the Taino language. 
